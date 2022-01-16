@@ -6,13 +6,39 @@
     <meta name="description" content="Description" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
+    <style>
+      @media screen and (max-width: 768px) {
+        .sidebar {
+          z-index: 999;
+        }
+        .sidebar-toggle {
+          top: 0;
+          bottom: auto;
+          left: 0;
+          background-color: #fff !important;
+          width: 100% !important;
+          height: 45px;
+          padding: 0;
+          pointer-events: none;
+        }
+        .sidebar-toggle-button {
+          position: absolute;
+          right: 15px;
+          top: 15px;
+          pointer-events: all;
+        }
+        .content {
+          padding-top: 45px;
+          background-color: #eee;
+        }
+      }
+    </style>
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
         loadSidebar: true,
-        plugins: [],
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
