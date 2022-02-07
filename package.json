@@ -5,5 +5,8 @@
   "devDependencies": {
     "docsify": "^4.12.1",
     "prettier": "^2.5.0"
+  },
+  "dependencies": {
+    "docsify-mega-dict": "^0.1.1"
   }
 }
