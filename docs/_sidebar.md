@@ -5,4 +5,4 @@
   - [英语国家概况](00522.md)
   - [初级翻译技巧](06009.md)
   - PETS-4
-    - [词源](etymonline.md)
+    - [单词表](vocabulary.md)

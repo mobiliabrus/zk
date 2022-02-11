@@ -1,0 +1,11 @@
+.vocabulary-today .vue-diction-wrapper {
+  background-color: #fff;
+  padding: 8px 18px;
+}
+
+.vocabulary-today .vue-diction-word {
+  font-size: 28px;
+  min-height: 28px;
+  line-height: 28px;
+  margin-bottom: 12px;
+}

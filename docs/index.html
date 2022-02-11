@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
     <link rel="stylesheet" href="//lee6.com/style.css" />
+    <link rel="stylesheet" href="./vocabulary.css" />
     <style>
       .markdown-section code {
         background-color: #999;
@@ -16,7 +17,8 @@
   </head>
   <body>
     <div id="app"></div>
-    <script src="//cdn.jsdelivr.net/npm/vue-diction@0.2"></script>
+    <script src="//cdn.jsdelivr.net/npm/vue-diction@0.3.1"></script>
+    <script src="./vocabulary.js"></script>
     <script>
       window.$docsify = {
         loadSidebar: true,
@@ -26,6 +28,7 @@
         topMargin: 50,
         vueComponents: {
           'v-dict': vueDiction,
+          'v-dict-today': vueDictionToday(),
         }
       };
     </script>
