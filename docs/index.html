@@ -7,12 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
     <link rel="stylesheet" href="//lee6.com/style.css" />
+    <link rel="stylesheet" href="./components/badge/index.css" />
     <link rel="stylesheet" href="./vocabulary.css" />
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <div id="app"></div>
     <script src="//cdn.jsdelivr.net/npm/vue-diction@0.3.2"></script>
+    <script src="./components/badge/index.js"></script>
     <script src="./vocabulary.js"></script>
     <script>
       window.$docsify = {
@@ -22,6 +24,7 @@
         auto2top: true,
         topMargin: 50,
         vueComponents: {
+          'v-badge': vueBadge,
           'v-dict': vueDiction,
           'v-dict-today': vueDictionToday(),
         }
