@@ -25,6 +25,8 @@ function vueDictionToday() {
   const component = vueDictionExtend({
     word: vocabulary[Math.floor(new Date().valueOf() / (1000 * 60 * 60 * 24)) % vocabulary.length],
     autoLoad: true,
+    showOrigin: false,
+    showMeanings: false,
   });
   component.template = '<div class="vocabulary-today">' + component.template + '</div>';
   return component;

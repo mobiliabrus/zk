@@ -6,6 +6,6 @@
 
 <div>
   <div v-for="word in vocabulary" style="margin-bottom: 1rem;">
-    <v-dict :word="word"></v-dict>
+    <v-dict :word="word" :show-origin="true" :show-meanings="true"></v-dict>
   </div>
 </div>
