@@ -31,3 +31,13 @@ function vueDictionToday() {
   component.template = '<div class="vocabulary-today">' + component.template + '</div>';
   return component;
 }
+
+function vueDictionDefault() {
+  const component = vueDictionExtend({
+    autoLoad: true,
+    showOrigin: false,
+    showMeanings: false,
+  });
+  component.template = '<div style="display: inline-block">' + component.template + '</div>';
+  return component;
+}
