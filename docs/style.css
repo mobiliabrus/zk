@@ -1,4 +1,4 @@
-.markdown-section code {
+.markdown-section code, .markdown-section p.tip code {
   background-color: #999;
   color: #fff;
 }
