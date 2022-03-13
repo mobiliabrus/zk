@@ -1,0 +1,1 @@
+* <a onclick="javascript: document.body.classList.contains('exercise') ? document.body.classList.remove('exercise') : document.body.classList.add('exercise');">exercise</a>

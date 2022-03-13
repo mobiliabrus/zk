@@ -18,6 +18,7 @@
     <script src="./vocabulary.js"></script>
     <script>
       window.$docsify = {
+        loadNavbar: true,
         loadSidebar: true,
         autoHeader: true,
         subMaxLevel: 6,
@@ -27,14 +28,14 @@
           'v-badge': vueBadge,
           'v-dict': vueDictionDefault(),
           'v-dict-today': vueDictionToday(),
-        }
+        },
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script>
       if (typeof navigator.serviceWorker !== 'undefined') {
-        navigator.serviceWorker.register('sw.js')
+        navigator.serviceWorker.register('sw.js');
       }
     </script>
   </body>
