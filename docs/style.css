@@ -16,3 +16,9 @@
   line-height: 45px;
   padding: 0 !important;
 }
+
+.vue-diction-symbol {
+  display: inline-block;
+  color: #999;
+  margin: 0 3px;
+}
