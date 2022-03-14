@@ -35,5 +35,49 @@
 <v-dict word="confiscate">v. 没收，充公</v-dict>
 <v-dict word="feudal">adj. 封建的</v-dict>
 <v-dict word="baron">n. 男爵</v-dict>
+<v-dict word="estate">n. 财产</v-dict>
+<v-dict word="military">adj. 军事的，军队的</v-dict>
+<v-dict word="proportion">n. 部分，份额；</v-dict>
+<v-dict word="produce">n. 农产品；（尤指某人工作或努力的）成果，结果</v-dict>
+<v-dict word="scale">n. 等级</v-dict>
+<v-dict word="villein">n. 农奴（以替地主工作为条件而使用其土地者）</v-dict>
+<v-dict word="serf">n. 农奴（最低阶级的农民）</v-dict>
+<v-dict word="slave">n. 奴隶</v-dict>
+<v-dict word="unfree">adj. 不自由的</v-dict>
+<v-dict word="peasant">n. （旧时或贫穷国家的）农民</v-dict>
+<v-dict word="council">n. 委员会；地方议会；会议</v-dict>
+<v-dict word="domesday">n. 世界末日，最后审判日</v-dict>
+<v-dict word="surgery">n. 外科手术</v-dict>
+<v-dict word="reliable">adj. 可靠的，可信赖的</v-dict>
+<v-dict word="tenant">n. 房客，租户</v-dict>
+<v-dict word="possession">n. 个人财产，所有物</v-dict>
+<v-dict word="territorial">adj. 领土的，领海的；</v-dict>
+<v-dict word="economic">adj. 经济的，经济学的；</v-dict>
+<v-dict word="declare">v. 宣布，声明；</v-dict>
+<v-dict word="expulsion">n. 驱逐；开除</v-dict>
+<v-dict word="regard">v. 认为，把……看作；</v-dict>
+<v-dict word="blessing">n. 幸事，福祉；</v-dict>
+<v-dict word="uprising">n. 起义，暴动</v-dict>
+<span>bubonic plague [bjuːˌbɒnɪk ˈpleɪɡ] n. 黑死病</span>
+<v-dict word="epidemic">n. 流行病，传染病；</v-dict>
+<v-dict word="disease">n. 疾病，病害；</v-dict>
+<v-dict word="flea">n. 跳蚤</v-dict>
+<v-dict word="spread">v. 展开，打开；张开，伸开（手臂、手指、腿）；扩散，蔓延；传播，传染；散布</v-dict>
+<v-dict word="particularly">adv. 非常，尤其；特别是；</v-dict>
+<v-dict word="consequence">n. 结果，后果</v-dict>
+<span>farreaching adj. 影响广泛的</span>
+<v-dict word="untended">adj. 被忽略了的；未受到照顾的</v-dict>
+<v-dict word="terrible">adj. 糟糕的，令人极为不快的；极度的，极其严重的；</v-dict>
+<v-dict word="shortage">n. 短缺，不足</v-dict>
+<v-dict word="labour">n. 劳动；任务，（一段时间的）工作；劳工，工人，劳动力；</v-dict>
+<span>sheep-farming 养羊业</span>
+<v-dict word="bargaining">n. 讨价还价</v-dict>
+<v-dict word="priest">n. 牧师，神职人员</v-dict>
+<v-dict word="itinerant">adj. 巡回的；流动的</v-dict>
+<v-dict word="preacher">n. 传道士，牧师 ；</v-dict>
+<v-dict word="abolition">n. 传道士，牧师 ；</v-dict>
+<v-dict word="villeinage">n. 隶农制；</v-dict>
+<v-dict word="pave">v. 为……铺平道路，创造条件（pave the way for sth./sb.）</v-dict>
+<v-dict word="capitalism">n. 资本主义</v-dict>
 
-?> TODO Chapter 3 The Shaping of the Nation（1066-1381）
+?> TODO Charter 4 Transition to the Modern Age（1455－1688）
