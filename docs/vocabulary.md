@@ -79,5 +79,53 @@
 <v-dict word="villeinage">n. 隶农制；</v-dict>
 <v-dict word="pave">v. 为……铺平道路，创造条件（pave the way for sth./sb.）</v-dict>
 <v-dict word="capitalism">n. 资本主义</v-dict>
+<v-dict word="religious">adj. 宗教的</v-dict>
+<v-dict word="reform">v. 改革，革新；</v-dict>
+<v-dict word="desire">n. 愿望，欲望</v-dict>
+<v-dict word="privilege">n. 特权，特殊待遇；</v-dict>
+<v-dict word="wealth">n. 财富；富有</v-dict>
+<v-dict word="clergy">n. （总称）神职人员</v-dict>
+<v-dict word="resent">v. 怨恨，憎恶</v-dict>
+<v-dict word="divorce">n. 离婚</v-dict>
+<v-dict word="papal">adj. 教宗的；罗马教皇的；教皇制度的</v-dict>
+<v-dict word="interference">n. 干预，干预；</v-dict>
+<span>get rid of 摆脱</span>
+<v-dict word="independent">adj. 自治的，独立的</v-dict>
+<span>Pope 罗马教皇</span>
+<v-dict word="protestant">n. 新教徒</v-dict>
+<v-dict word="heretic">n. 异教徒</v-dict>
+<v-dict word="reign">n. （君主）在位时期，统治时期；</v-dict>
+<v-dict word="confident">adj. （性格，态度）自信的</v-dict>
+<v-dict word="nationalism">n. 国家主义，民族主义；</v-dict>
+<v-dict word="achievement">n. 成绩，成就；</v-dict>
+<v-dict word="literature">n. 文学</v-dict>
+<v-dict word="exploration">n. 探险</v-dict>
+<v-dict word="turbulent">adj. 混乱而难以控制的</v-dict>
+<v-dict word="religion">n. 宗教信仰</v-dict>
+<v-dict word="finance">n. 财政，金融</v-dict>
+<v-dict word="marriage">n. 结婚，婚姻；</v-dict>
+<v-dict word="succession">n. 继承权</v-dict>
+<v-dict word="throne">n. （君王的）宝座，御座；王位</v-dict>
+<v-dict word="policy">n. 政策，方针</v-dict>
+<v-dict word="compromise">n. 折中，妥协</v-dict>
+<v-dict word="tie">n. 领带，领结；（绑扎东西用的）带子，绳子；</v-dict>
+<v-dict word="restore">v. 修复；恢复健康</v-dict>
+<v-dict word="outward">adv. 向外，朝外；</v-dict>
+<v-dict word="conformity">n. 遵守，依照</v-dict>
+<v-dict word="opinion">n. 意见，看法</v-dict>
+<span>Puritan n. 清教徒</span>
+<span>Catholic n. 天主教教徒</span>
+<span>Armada n. （西班牙的）无敌舰队</span>
+<span>Renaissance n. 文艺复兴（欧洲14至17世纪）</span>
+<span>Swiss n. 瑞士人</span>
+<v-dict word="destruction">n. 破坏，摧毁</v-dict>
+<v-dict word="superiority">n. 优越，优势；</v-dict>
+<v-dict word="naval">adj. 海军的，军舰的</v-dict>
+<v-dict word="historian">n. 历史学家，史学工作者</v-dict>
+<v-dict word="finest">adj. 最杰出的</v-dict>
+<v-dict word="expression">n. 表达，表示；</v-dict>
+<v-dict word="drama">n. 剧本，戏剧</v-dict>
+<v-dict word="excel">v. 精通，擅长；超过，胜过</v-dict>
+<v-dict word="decade">n. 十年，十年期</v-dict>
 
-?> TODO Charter 4 Transition to the Modern Age（1455－1688）
+?> TODO VII.Civil Wars （1642－1651）
