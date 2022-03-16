@@ -22,3 +22,12 @@
   color: #999;
   margin: 0 3px;
 }
+
+.vocabulary {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.vocabulary>div, .vocabulary>span {
+  margin-bottom: 8px;
+}

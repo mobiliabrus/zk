@@ -1,3 +1,4 @@
+<div class="vocabulary">
 <v-dict word="population">n. 人口</v-dict>
 <v-dict word="nominal">adj. 名义上的</v-dict>
 <v-dict word="climate">n. 气候</v-dict>
@@ -127,5 +128,6 @@
 <v-dict word="drama">n. 剧本，戏剧</v-dict>
 <v-dict word="excel">v. 精通，擅长；超过，胜过</v-dict>
 <v-dict word="decade">n. 十年，十年期</v-dict>
+<div>
 
 ?> TODO VII.Civil Wars （1642－1651）
