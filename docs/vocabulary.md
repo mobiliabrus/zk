@@ -128,6 +128,18 @@
 <v-dict word="drama">n. 剧本，戏剧</v-dict>
 <v-dict word="excel">v. 精通，擅长；超过，胜过</v-dict>
 <v-dict word="decade">n. 十年，十年期</v-dict>
+<v-dict word="parliament">n. 议会，国会；英国议会（包括下议院和上议院）（Parliament）</v-dict>
+<span>Roundhead n. 圆颅党（英国1642-1652内战期间的议会派分子）；圆颅党人</span>
+<v-dict word="yeoman">n. 自耕农；自由民</v-dict>
+<v-dict word="townspeople">n. 市民；镇民；城里生长的人</v-dict>
+<v-dict word="artisan">n. 工匠，技工</v-dict>
+<v-dict word="revolution">n. （思想、工作方式等的）彻底变革</v-dict>
+<v-dict word="monarchy">n. 君主国；君主政体，君主制；皇室，王族</v-dict>
+<v-dict word="restoration">n. （君主、元首、政权等的）原有地位的恢复，复位；王政复辟时期（1660 年英王查理二世复辟及其后的一段时期）（the Restoration）；</v-dict>
+<v-dict word="severe">adj. 十分严重的，极为恶劣的；艰巨的，严峻的；</v-dict>
+<v-dict word="jointly">adv. 共同地；连带地</v-dict>
+<v-dict word="acceptance">n. 接受；赞同，认可；容忍；接纳；相信，承认</v-dict>
+<v-dict word="constitutional">adj. 宪法的；宪法规定的，合乎宪法的</v-dict>
 <div>
 
-?> TODO VII.Civil Wars （1642－1651）
+?> Chapter 5 The Rise and Fall of the British Empire（1688－Present ）
