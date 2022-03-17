@@ -140,6 +140,46 @@
 <v-dict word="jointly">adv. 共同地；连带地</v-dict>
 <v-dict word="acceptance">n. 接受；赞同，认可；容忍；接纳；相信，承认</v-dict>
 <v-dict word="constitutional">adj. 宪法的；宪法规定的，合乎宪法的</v-dict>
+<v-dict word="absolute">adj. 完全的，纯粹的；绝对的，无疑的；十足的；不受任何限制的，专制独裁的</v-dict>
+<v-dict word="conservative">adj. 保守的；保守派的，保守主义的</v-dict>
+<v-dict word="hereditary">adj.（头衔、职位或权利）承袭的，世袭的；有世袭身分（或头衔）的</v-dict>
+<v-dict word="crop">n. 庄稼；</v-dict>
+<v-dict word="rotation">n. 轮作，轮耕；（林业）轮伐期；</v-dict>
+<v-dict word="artificial">adj. 人造的，人工的；</v-dict>
+<v-dict word="fertilizer">n. 肥料，化肥；</v-dict>
+<v-dict word="agricultural">adj. 农业的</v-dict>
+<v-dict word="machinery">n. 机器，机械（尤指大型机械）</v-dict>
+<v-dict word="mechanization">n. 机械化（=mechanisation）</v-dict>
+<span>spinning jenny 多轮纺织机</span>
+<span>steam engine 蒸汽机</span>
+<span>rotten boroughs 衰败选区</span>
+<v-dict word="workshop">n. 车间，工场，作坊；</v-dict>
+<v-dict word="abolish">v. 废除，废止，取消</v-dict>
+<v-dict word="association">n. 协会，社团，联盟</v-dict>
+<v-dict word="electoral">adj. 选举的；由选民组成的</v-dict>
+<v-dict word="district">n. 地区，区域；行政区，辖区；</v-dict>
+<v-dict word="ballot">n. （无记名）投票选举，投票表决；选票</v-dict>
+<v-dict word="gradual">adj. 逐渐的，渐进的；平缓的，不陡的</v-dict>
+<v-dict word="cede">vt. 放弃；割让（领土）</v-dict>
+<v-dict word="assassinate">v. 暗杀，行刺</v-dict>
+<v-dict word="adopt">v. 采取，采纳，接受；正式通过；</v-dict>
+<v-dict word="appeasement">n. 平息，安抚，姑息</v-dict>
+<v-dict word="crisis">n. 危机，紧要关头；决定性时刻，关键时刻；</v-dict>
+<v-dict word="decline">n. 减少，衰退</v-dict>
+<v-dict word="tradition">n. 传统，惯例；</v-dict>
+<v-dict word="bestow">vt. 赠予，授予（财产、权力或荣誉）；</v-dict>
+<v-dict word="terrorist">n. 恐怖主义者，恐怖分子 adj. 恐怖主义者的，恐怖分子的</v-dict>
+<v-dict word="employment">n. 雇用；使用，利用；工作，就业；就业人数</v-dict>
+<v-dict word="statistic">n. 统计数字，统计资料；</v-dict>
+<v-dict word="measure">n. 判断，衡量；度量单位，计量标准；</v-dict>
+<v-dict word="electricity">n. 电，电流，电力；</v-dict>
+<v-dict word="historic">adj. 历史上重要的；过去的，与历史（或过去）有关的；</v-dict>
+<v-dict word="castle">n. 城堡，堡垒；</v-dict>
+<v-dict word="museum">n. 博物馆</v-dict>
+<v-dict word="theatre">n. 剧场，戏院；</v-dict>
+<v-dict word="tourism">n. 旅游业，观光业；</v-dict>
+<v-dict word="destination">n. 目的地，终点</v-dict>
+<v-dict word="vital">adj. 至关重要的，必不可少的；</v-dict>
 <div>
 
-?> Chapter 5 The Rise and Fall of the British Empire（1688－Present ）
+?> Chapter 7 Government and Politics
