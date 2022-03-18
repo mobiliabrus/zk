@@ -139,6 +139,7 @@
 <v-dict word="severe">adj. 十分严重的，极为恶劣的；艰巨的，严峻的；</v-dict>
 <v-dict word="jointly">adv. 共同地；连带地</v-dict>
 <v-dict word="acceptance">n. 接受；赞同，认可；容忍；接纳；相信，承认</v-dict>
+<v-dict word="constitution">n. 宪法，章程</v-dict>
 <v-dict word="constitutional">adj. 宪法的；宪法规定的，合乎宪法的</v-dict>
 <v-dict word="absolute">adj. 完全的，纯粹的；绝对的，无疑的；十足的；不受任何限制的，专制独裁的</v-dict>
 <v-dict word="conservative">adj. 保守的；保守派的，保守主义的</v-dict>
@@ -180,6 +181,12 @@
 <v-dict word="tourism">n. 旅游业，观光业；</v-dict>
 <v-dict word="destination">n. 目的地，终点</v-dict>
 <v-dict word="vital">adj. 至关重要的，必不可少的；</v-dict>
+<v-dict word="statute">n. 法令，法规，成文法；（组织或机构的）规章</v-dict>
+<v-dict word="convention">n. 习俗，惯例；大会，集会；公约，协定</v-dict>
+<v-dict word="chancellor">n. （英国）财政大臣</v-dict>
+<v-dict word="authorize">v. 批准，许可；授权</v-dict>
+<v-dict word="taxation">n. 征税，税制；税款</v-dict>
+<v-dict word="expenditure">n. 经费，支出额；（时间、金钱、精力等的）消耗，花费</v-dict>
 <div>
 
 ?> Chapter 7 Government and Politics
