@@ -187,6 +187,7 @@
 <v-dict word="authorize">v. 批准，许可；授权</v-dict>
 <v-dict word="taxation">n. 征税，税制；税款</v-dict>
 <v-dict word="expenditure">n. 经费，支出额；（时间、金钱、精力等的）消耗，花费</v-dict>
+<v-dict word="grant">n. 补助金，拨款</v-dict>
 <div>
 
 ?> Chapter 7 Government and Politics
