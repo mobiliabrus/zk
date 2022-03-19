@@ -188,6 +188,16 @@
 <v-dict word="taxation">n. 征税，税制；税款</v-dict>
 <v-dict word="expenditure">n. 经费，支出额；（时间、金钱、精力等的）消耗，花费</v-dict>
 <v-dict word="grant">n. 补助金，拨款</v-dict>
+<v-dict word="examine">v. 检查，调查；考核，测验；（尤指在法庭上）审问，查问</v-dict>
+<v-dict word="heir">n. 继承人，子嗣；接班人</v-dict>
+<v-dict word="spiritual">adj. 精神的，心灵的；宗教的</v-dict>
+<v-dict word="temporal">adj. 世俗的，现世的；</v-dict>
+<span>the Lord Chancellor 大法官</span>
+<span>law lords （上议院的）司法委员</span>
+<v-dict word="peer">n. （英国）贵族</v-dict>
+<v-dict word="appeal">n. 呼吁，恳求；上诉，申诉；</v-dict>
+<v-dict word="universal">adj. 普遍的，全体的，全世界的；</v-dict>
+<v-dict word="legislative">adj. 立法的；</v-dict>
 <div>
 
 ?> Chapter 7 Government and Politics
