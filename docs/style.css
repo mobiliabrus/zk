@@ -7,6 +7,14 @@
   color: #999;
 }
 
+.exercise .vue-diction-wrapper {
+  font-size: 0;
+}
+
+.exercise .vue-diction-wrapper .vue-diction-word {
+  font-size: 15px;
+}
+
 .app-nav {
   position: fixed;
 }
