@@ -172,7 +172,7 @@
 <v-dict word="terrorist">n. 恐怖主义者，恐怖分子 adj. 恐怖主义者的，恐怖分子的</v-dict>
 <v-dict word="employment">n. 雇用；使用，利用；工作，就业；就业人数</v-dict>
 <v-dict word="statistic">n. 统计数字，统计资料；</v-dict>
-<v-dict word="measure">n. 判断，衡量；度量单位，计量标准；</v-dict>
+<v-dict word="measure">n. 措施，办法；适量，适度；判断，衡量；；</v-dict>
 <v-dict word="electricity">n. 电，电流，电力；</v-dict>
 <v-dict word="historic">adj. 历史上重要的；过去的，与历史（或过去）有关的；</v-dict>
 <v-dict word="castle">n. 城堡，堡垒；</v-dict>
@@ -198,6 +198,59 @@
 <v-dict word="appeal">n. 呼吁，恳求；上诉，申诉；</v-dict>
 <v-dict word="universal">adj. 普遍的，全体的，全世界的；</v-dict>
 <v-dict word="legislative">adj. 立法的；</v-dict>
+<v-dict word="minister">n. （英国及其他许多国家的）部长，大臣；</v-dict>
+<v-dict word="collectively">adv. 集体地，共同地</v-dict>
+<v-dict word="cabinet">n. 内阁；</v-dict>
+<v-dict word="prime">adj. 主要的，首要的；</v-dict>
+<v-dict word="bill">n. 议案，法案；</v-dict>
+<v-dict word="majority">n. 大多数</v-dict>
+<v-dict word="element">n. 基本部分，要素</v-dict>
+<v-dict word="scarce">adj. 缺乏的，不足的</v-dict>
+<v-dict word="preventive">adj. 预防（性）的，防备的</v-dict>
+<v-dict word="liaison">n. 联络，沟通；联络人；</v-dict>
+<v-dict word="cooperate">v. 合作，协作；</v-dict>
+<v-dict word="arctic">adj. 北极的；严寒的，极冷的</v-dict>
+<span>Atlantic 大西洋</span>
+<span>Pacific 太平洋</span>
+<v-dict word="continental">adj. 大洲的，大陆的；</v-dict>
+<v-dict word="boundary">n. 分界线，边界；</v-dict>
+<v-dict word="region">n. 地区，区域；行政区；</v-dict>
+<v-dict word="humid">adj. 潮湿的，湿热的</v-dict>
+<v-dict word="traditionally">adv. 传统上；习惯上；</v-dict>
+<v-dict word="mountainous">adj. 多山的；</v-dict>
+<v-dict word="hilly">adj. 多山丘的，丘陵起伏的</v-dict>
+<v-dict word="soil">n. 泥土，土壤；</v-dict>
+<v-dict word="pioneer">n. 拓荒者；先锋；</v-dict>
+<v-dict word="populous">adj. 人口稠密的</v-dict>
+<v-dict word="characteristics">n. 特性，特征；</v-dict>
+<v-dict word="mobility">n. （住处、社会阶层、职业方面的）流动能力；活动性，灵活性</v-dict>
+<v-dict word="immigrant">n. （外来）移民，侨民</v-dict>
+<v-dict word="immigration">n. 移民（入境）；移民人数；</v-dict>
+<v-dict word="oppression">n. 压迫，压制；压迫手段；</v-dict>
+<v-dict word="drove">v. 迫使，促使（drive 的过去式形式）</v-dict>
+<v-dict word="period">n. 一段时间，时期；</v-dict>
+<v-dict word="rural">adj. 农村的，乡村的；</v-dict>
+<v-dict word="suburb">n. 城郊，近郊</v-dict>
+<span>Hispanics 西班牙裔</span>
+<v-dict word="forcibly">adv. 用武力地，强制地；</v-dict>
+<v-dict word="racial">adj. 种族关系的，种族之间的；人种的，种族的</v-dict>
+<v-dict word="ethnic">adj. （有关）种族的，民族的；</v-dict>
+<v-dict word="minority">n. 少数，少数派；少数民族，少数群体；</v-dict>
+<v-dict word="vast">adj. 巨大的，广大的</v-dict>
+<v-dict word="continent">n. 洲，大陆</v-dict>
+<v-dict word="associate">v. （尤指）混在一起</v-dict>
+<v-dict word="permanent">adj. 永久的，永恒的；</v-dict>
+<v-dict word="colony">n. 殖民地；</v-dict>
+<v-dict word="representative">adj. 典型的，有代表性的；代表各类人（或事物）的；由代表组成的，代议制的；</v-dict>
+<v-dict word="assembly">n. 议会，代表大会；集会，集会者；</v-dict>
+<v-dict word="burgess">n. （英）自由民；市民；</v-dict>
+<v-dict word="original">adj. 起初的，原先的；</v-dict>
+<v-dict word="obligation">n. （法律上或道义上的）义务，责任；</v-dict>
+<v-dict word="theory">n. 学说，理论；</v-dict>
+<v-dict word="oath">n. 誓言，誓约；</v-dict>
+<v-dict word="confederation">n. 联盟，同盟；</v-dict>
+<v-dict word="legitimate">adj. 正当的，合理的；合法的，依法的；</v-dict>
+<v-dict word="federalist">adj. （支持）联邦党人的；联邦制的</v-dict>
 <div>
 
-?> Chapter 7 Government and Politics
+?> Ⅴ. The War of 1812 （1812 年战争）
