@@ -359,13 +359,92 @@
 <v-dict word="dialect">n. 方言，土话</v-dict>
 <v-dict word="distinctive">adj. 独特的，与众不同的</v-dict>
 <v-dict word="elementary">adj. 初级的</v-dict>
-<v-dict word="compulsory">adj. 强制性的</v-dict>
+<v-dict word="compulsory">adj. 必须做的，义务的，强制的</v-dict>
 <v-dict word="secondary">adj. （教育）中等的，中学的；次要的， 第二位的；</v-dict>
 <v-dict word="playwright">n. 剧作家</v-dict>
 <v-dict word="patriotic">adj. 爱国的</v-dict>
 <v-dict word="commemorate">v. 纪念，用以纪念</v-dict>
 <v-dict word="resurrection">n. 复活；</v-dict>
 <v-dict word="principal">adj. 最重要的，首要的；</v-dict>
+<v-dict word="settlement">n. 定居点，聚居地</v-dict>
+<v-dict word="span">v. 横跨，跨越</v-dict>
+<v-dict word="rugged">adj. （地面，地形）高低不平的，崎岖的；</v-dict>
+<v-dict word="range">n. 山脉</v-dict>
+<v-dict word="fertile">adj. 肥沃的，富饶的；</v-dict>
+<v-dict word="valley">n. 山谷；流域；溪谷</v-dict>
+<v-dict word="abundant">adj. 大量的，丰富的，充足的</v-dict>
+<v-dict word="boreal">adj. 北的，北方的；北风的</v-dict>
+<v-dict word="aboriginal">adj. 原始的，土著的；</v-dict>
+<v-dict word="aborigine">n. 土著；土著居民</v-dict>
+<v-dict word="numerous">adj. 很多的</v-dict>
+<v-dict word="heterogeneous">adj. 各种各样的</v-dict>
+<v-dict word="multiculturalism">n. 多元文化论</v-dict>
+<v-dict word="heritage">n. 遗产，传统，世袭财产；</v-dict>
+<span>Vancouver 温哥华</span>
+<v-dict word="ice-free">adj. 不冻的；不会冰冻的</v-dict>
+<v-dict word="harbor">n. 港，海港；</v-dict>
+<v-dict word="interior">adj. 内部的，里面的；</v-dict>
+<v-dict word="colonizer">n. 殖民者；</v-dict>
+<v-dict word="statute">n. 法令，法规，成文法</v-dict>
+<v-dict word="chamber">n. 议院；</v-dict>
+<v-dict word="plateau">n. 高原</v-dict>
+<v-dict word="era">n. 时代，年代，纪元</v-dict>
+<v-dict word="vegetation">n. （总称）植物，植被；</v-dict>
+<v-dict word="shrub">n. 灌木；</v-dict>
+<v-dict word="generation">n. 一代（人）；一代人的时间；</v-dict>
+<v-dict word="segregate">v. （尤指因种族、性别、宗教不同而）使隔离，使分开；实行种族隔离；</v-dict>
+<v-dict word="indigenous">adj. 本土的，固有的</v-dict>
+<v-dict word="dignity">n. 尊严，自尊；</v-dict>
+<v-dict word="vitality">n. 活力，热情；生机，生命力</v-dict>
+<v-dict word="diverse">adj. 不同的，各式各样的</v-dict>
+<v-dict word="crawl">n. 爬泳，自由泳；</v-dict>
+<v-dict word="invent">v. 发明，创造</v-dict>
+<v-dict word="concern">n. 担心，忧虑；</v-dict>
+<v-dict word="penal">adj. 刑事的</v-dict> 
+<v-dict word="criminal">n. 罪犯</v-dict> 
+<v-dict word="attract">v. 吸引；</v-dict> 
+<v-dict word="preferential">adj. 优先的，优待的，优惠的；</v-dict> 
+<v-dict word="preference">n. 优待，优先（权）</v-dict> 
+<v-dict word="ballot">n. （无记名）投票选举，投票表决；</v-dict> 
+<v-dict word="suffrage">n. 选举权；</v-dict> 
+<v-dict word="referendum">n. 公民投票，全民公决</v-dict> 
+<v-dict word="compose">v. 组成，构成</v-dict> 
+<v-dict word="component">n. 组成部份，成分，部件</v-dict> 
+<v-dict word="wheat">n. 小麦（植物）</v-dict> 
+<v-dict word="consumption">n. 消费，消耗；</v-dict> 
+<v-dict word="landmass">n. 大陆</v-dict> 
+<v-dict word="fault">n. 断层；</v-dict> 
+<v-dict word="volcanic">adj. 火山的，火山引发的；</v-dict> 
+<v-dict word="populated">adj. 有人口居住的；</v-dict> 
+<v-dict word="enormous">adj. 巨大的，极大的；</v-dict> 
+<v-dict word="eruption">n. 喷发；</v-dict> 
+<v-dict word="hemisphere">n. （地球的）半球；</v-dict> 
+<v-dict word="mammals">n. 哺乳类；哺乳类动物；</v-dict> 
+<span>Tuatara n. 大蜥蜴（产于新西兰）</span>
+<v-dict word="fossil">n. 化石；</v-dict> 
+<v-dict word="unique">adj. 独一无二的，独特的；</v-dict> 
+<v-dict word="distinguish">v. 使有别于；</v-dict> 
+<v-dict word="commercial">adj. 商业的，商务的；</v-dict> 
+<v-dict word="transport">n. 运输，运送；</v-dict> 
+<v-dict word="workforce">n. （国家或地区的）劳动力，劳动人口；</v-dict> 
+<v-dict word="account">占（一定数量或比例）（account for）</v-dict> 
+<span>Governor-General n. 总督</span>
+<v-dict word="appoint">v. 任命，指派</v-dict> 
+<v-dict word="privy">adj. 私人的；不公开的</v-dict> 
+<v-dict word="basis">n. 基础，要素</v-dict> 
+<v-dict word="wide-spread">广泛传播的</v-dict> 
+<v-dict word="participation">n. 参加，参与</v-dict> 
+<v-dict word="rugby">n. 英式橄榄球</v-dict>
+<span>Emerald Isle 绿宝石岛（爱尔兰岛的别名）</span>
+<v-dict word="famine">n. 饥荒，饥馑</v-dict>
+<v-dict word="awful">adj. 让人讨厌的，糟糕的</v-dict>
+<v-dict word="century-long">长达一个世纪的</v-dict>
+<v-dict word="decline">v. 下降，衰退</v-dict>
+<v-dict word="figurative">adj. 比喻的；形象的；</v-dict>
+<v-dict word="invade">v. 武力入侵，侵略</v-dict>
+<v-dict word="eventually">adv. 最终，结果</v-dict>
+<v-dict word="grazing">n. 放牧；</v-dict>
+<v-dict word="cattle">n. 牛；家牛（包括牦牛、犎牛及水牛）</v-dict>
 <div>
 
-?> Chapter 17 Canada （I） Land and People
+?> 初级翻译技巧
