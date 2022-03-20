@@ -173,7 +173,7 @@
 <v-dict word="terrorist">n. 恐怖主义者，恐怖分子 adj. 恐怖主义者的，恐怖分子的</v-dict>
 <v-dict word="employment">n. 雇用；使用，利用；工作，就业；就业人数</v-dict>
 <v-dict word="statistic">n. 统计数字，统计资料；</v-dict>
-<v-dict word="measure">n. 措施，办法；适量，适度；判断，衡量；；</v-dict>
+<v-dict word="measure">n. 措施，办法；适量，适度；判断，衡量；</v-dict>
 <v-dict word="electricity">n. 电，电流，电力；</v-dict>
 <v-dict word="historic">adj. 历史上重要的；过去的，与历史（或过去）有关的；</v-dict>
 <v-dict word="castle">n. 城堡，堡垒；</v-dict>
@@ -445,6 +445,30 @@
 <v-dict word="eventually">adv. 最终，结果</v-dict>
 <v-dict word="grazing">n. 放牧；</v-dict>
 <v-dict word="cattle">n. 牛；家牛（包括牦牛、犎牛及水牛）</v-dict>
+<v-dict word="squarely">adv. 直角地；诚实地；</v-dict>
+<v-dict word="junior">adj. 年龄较小的；</v-dict>
+<v-dict word="arrange">v. 安排，筹备；</v-dict>
+<v-dict word="bum">n. [美，非正式]流浪汉，流浪乞丐；</v-dict>
+<v-dict word="outline">v. 勾勒，描画……的轮廓</v-dict>
+<v-dict word="welfare">n. (政府给予的)福利;</v-dict>
+<v-dict word="conflict">n. 争执，争论，分歧；</v-dict>
+<v-dict word="quarrel">n. 争吵，拌嘴；</v-dict>
+<v-dict word="dispute">n. 争论，辩论，纠纷</v-dict>
+<v-dict word="part-time">adj. 兼职的；部分时间的</v-dict>
+<v-dict word="career">n. 职业，事业；职业生涯；</v-dict>
+<v-dict word="mill">n. 磨坊，磨粉厂；</v-dict>
+<v-dict word="feature">n. 特点，特征；</v-dict>
+<v-dict word="invention">n. 发明物；发明，创造；</v-dict>
+<v-dict word="artery">n. 动脉；干线</v-dict>
+<v-dict word="barge">n. 驳船，平底载货船；</v-dict>
+<v-dict word="luxury">n. 奢华，华贵；奢侈品；</v-dict>
+<v-dict word="pot">n. （烹饪所用圆而深的）锅；（盛食品的）罐，瓶，壶；</v-dict>
+<v-dict word="pan">n. 平底锅；</v-dict>
+<v-dict word="bale">n. 包；捆；</v-dict>
+<v-dict word="ribbon">n. 丝带，绸带；</v-dict>
+<v-dict word="pennyworth">n. 少量；一便士的价钱</v-dict>
+<v-dict word="manufacture">v. （用机器大量）生产，制造；</v-dict>
+<v-dict word="country-wide">adj. 遍及全国的</v-dict>
 <div>
 
 ?> 初级翻译技巧
