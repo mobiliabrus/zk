@@ -3,16 +3,21 @@
   color: #fff;
 }
 
+.sidebar, .app-nav {
+  user-select: none;
+}
+
 .exercise .markdown-section code, .exercise .markdown-section p.tip code {
   color: #999;
 }
 
-.exercise .vue-diction-wrapper {
-  font-size: 0;
+.exercise .vue-diction-slot {
+  display: none;
+  user-select: none;
 }
 
-.exercise .vue-diction-wrapper .vue-diction-word {
-  font-size: 15px;
+.exercise .vue-diction-symbol {
+  user-select: none;
 }
 
 .app-nav {

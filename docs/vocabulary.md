@@ -333,7 +333,7 @@
 <v-dict word="puppet">n. 木偶；傀儡</v-dict>
 <v-dict word="involvement">n. 参与，介入；</v-dict>
 <v-dict word="diplomatic">adj. 外交的，从事外交的；</v-dict>
-<v-dict word="potential">adj. 潜在的，可能的</v-dict>
+<v-dict word="potential">adj. 潜在的，可能的 n. （事物的）潜力，可能性；</v-dict>
 <v-dict word="extraordinary">adj. 异乎寻常的，令人惊奇的；非凡的，卓越的；</v-dict>
 <v-dict word="effort">n. 努力，艰难的尝试；</v-dict>
 <v-dict word="strengthen">v. 使（关系）更加紧密；</v-dict>
@@ -483,6 +483,26 @@
 <v-dict word="encrust">vt. 包上外壳；vi. 结壳</v-dict>
 <v-dict word="encounter">v. 遭遇；偶遇，邂逅</v-dict>
 <v-dict word="creativeness">n. 创造性；才思</v-dict>
+<v-dict word="dynasty">n. 王朝；朝，代</v-dict>
+<v-dict word="worship">n. 敬神，拜神；</v-dict>
+<v-dict word="harvest">n. 收获；收获量，捕获量；成果，收获</v-dict>
+<v-dict word="emperor">n. 皇帝；</v-dict>
+<v-dict word="imperial">adj. 帝国的，皇帝的；</v-dict>
+<v-dict word="bilateral">adj. 双方的，双边的；</v-dict>
+<v-dict word="yield">n. 产量；收益</v-dict>
+<v-dict word="self-sufficiency">n. 自给自足；自负</v-dict>
+<v-dict word="self-reliance">n. 自力更生，依靠自己；</v-dict>
+<v-dict word="arable">n. 耕地</v-dict>
+<v-dict word="multiple">adj. 多个的，多种的；</v-dict>
+<v-dict word="justifiably">adv. 理所当然；无可非议的;</v-dict> 
+<v-dict word="well-dressed">adj. 穿着考究的；</v-dict> 
+<v-dict word="drench">vt. 使湿透；</v-dict> 
+<v-dict word="drowned">adj. 淹死的</v-dict> 
+<v-dict word="mineral">n. 矿物质；矿物；</v-dict> 
+<v-dict word="combustion">n. 燃烧；</v-dict> 
+<v-dict word="refined">adj. 精炼的；</v-dict> 
+<v-dict word="asphalt">n. 沥青；</v-dict> 
+<v-dict word="creature">n. 生物;动物;</v-dict> 
 <div>
 
 ?> 初级翻译技巧
