@@ -267,7 +267,7 @@
 <span>The Emancipation Proclamation 解放黑人奴隶宣言</span>
 <v-dict word="proclamation">n. 正式的公告，宣言；宣布，公布</v-dict>
 <v-dict word="candidate">n. 候选人，申请者；</v-dict>
-<v-dict word="issue">v. 发表，颁布；</v-dict>
+<v-dict word="issue">v. 发表，颁布；n. （报纸、杂志等的）期，号；</v-dict>
 <v-dict word="slavery">n. 奴隶制，蓄奴；</v-dict>
 <v-dict word="amendment">n. 修正，修订之处；美国宪法修正案（Amendment）；</v-dict>
 <v-dict word="merger">n. （公司、组织的）合并</v-dict>
@@ -469,6 +469,20 @@
 <v-dict word="pennyworth">n. 少量；一便士的价钱</v-dict>
 <v-dict word="manufacture">v. （用机器大量）生产，制造；</v-dict>
 <v-dict word="country-wide">adj. 遍及全国的</v-dict>
+<v-dict word="labourer">n. 工人</v-dict> 
+<v-dict word="poverty">n. 贫困；贫穷；</v-dict>
+<v-dict word="warlord">n. 军阀</v-dict>
+<v-dict word="capitulation">n. （有条件的）投降；投降协定</v-dict>
+<v-dict word="publicity">n. （媒体的）关注，报道；宣传， 推广；</v-dict>
+<v-dict word="leaflet">n. 传单，小册子；</v-dict>
+<v-dict word="transform">v. 使改观，使变形，使转化；</v-dict>
+<v-dict word="benefit">v. 对（某人）有用，使受益；</v-dict>
+<v-dict word="ancient">adj. 古代的，远古的；</v-dict>
+<v-dict word="harmony">n. 和声，和弦；融洽，和睦；</v-dict>
+<v-dict word="undertake">v. 承担，从事；承诺，答应；</v-dict>
+<v-dict word="encrust">vt. 包上外壳；vi. 结壳</v-dict>
+<v-dict word="encounter">v. 遭遇；偶遇，邂逅</v-dict>
+<v-dict word="creativeness">n. 创造性；才思</v-dict>
 <div>
 
 ?> 初级翻译技巧
