@@ -3,6 +3,10 @@
   color: #fff;
 }
 
+.markdown-section p + ul, .markdown-section p + ol {
+  margin-top: -1rem;
+}
+
 .sidebar, .app-nav {
   user-select: none;
 }
