@@ -29,6 +29,7 @@
 }
 
 .app-nav.app-nav.app-nav ul, .app-nav.app-nav.app-nav ul li {
+  position: relative;
   height: 45px;
   line-height: 45px;
   padding: 0 !important;
