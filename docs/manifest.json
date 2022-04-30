@@ -1,15 +1,15 @@
 {
-  "name": "Lee6",
-  "short_name": "Lee6",
+  "name": "zk",
+  "short_name": "zk",
   "description": "",
   "icons": [],
   "lang": "en-UK",
-  "start_url": "/",
+  "start_url": "/zk/",
   "fullscreen": true,
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
   "orientation": "portrait",
-  "serviceworker": { "src": "./sw.js" },
+  "serviceworker": { "src": "/zk/sw.js" },
   "permissions": {}
 }
