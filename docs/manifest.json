@@ -1,0 +1,15 @@
+{
+  "name": "Lee6",
+  "short_name": "Lee6",
+  "description": "",
+  "icons": [],
+  "lang": "en-UK",
+  "start_url": "/",
+  "fullscreen": true,
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "orientation": "portrait",
+  "serviceworker": { "src": "./sw.js" },
+  "permissions": {}
+}
