@@ -1,5 +1,4 @@
 [自考考试信息网](https://zk.zjzs.net/)
-[PETS](http://pets.neea.edu.cn/)
 
 主考学校：浙江师范大学
 专业代码：3050207
