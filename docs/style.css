@@ -12,7 +12,11 @@
 }
 
 .exercise .markdown-section code, .exercise .markdown-section p.tip code {
-  color: #999;
+  color: transparent;
+}
+
+.exercise .markdown-section code:hover, .exercise .markdown-section p.tip code:hover {
+  color: #fff;
 }
 
 .exercise .vue-diction-slot {
