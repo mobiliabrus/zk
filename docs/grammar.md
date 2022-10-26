@@ -16,6 +16,18 @@
 * divide
 * divorce
 
+### dis-
+
+表示“不同意，反对”或者“分开、分离”
+
+* dislike
+* disagree
+* dishonest
+* disappear
+
+* discuss
+* discard
+
 ## stem
 
 ### -ous
