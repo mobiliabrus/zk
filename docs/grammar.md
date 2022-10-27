@@ -27,6 +27,14 @@
 * discuss
 * discard
 
+### ex-
+
+表示“向外”
+
+* expect
+* exclusive
+* expose
+
 ## stem
 
 ### -ous
@@ -37,5 +45,13 @@
 * mountainous
 * poisonous
 * advantageous
+
+-pect
+
+表示“看”
+
+* prospect
+* expect
+* inspect
 
 ## suffix
