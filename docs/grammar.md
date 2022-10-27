@@ -46,7 +46,7 @@
 * poisonous
 * advantageous
 
--pect
+### -pect
 
 表示“看”
 
