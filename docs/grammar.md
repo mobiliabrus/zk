@@ -1,4 +1,25 @@
-## prefix
+## 词根词缀
+
+### ag
+
+表示“做”、“动”，同 do 和 act。
+
+* agent *-ent名词后缀，表示“人”*
+* agency
+
+### agri
+
+表示“田地”、“农田”,也作 agro agr
+
+* agriculture *cult 耕种，-ure名词后缀
+* agronomy 
+
+### ann
+
+表示“年”，也作 enn
+
+* annual *-nul 形容词后缀*
+* perennial *per-通、全
 
 ### pre-
 
@@ -35,8 +56,6 @@
 * exclusive
 * expose
 
-## stem
-
 ### -ous
 
 表形容词，通常放在一个完整的单词后，表示“…的”
@@ -53,5 +72,3 @@
 * prospect
 * expect
 * inspect
-
-## suffix
