@@ -1,4 +1,25 @@
-## prefix
+## 词根词缀
+
+### ag
+
+表示“做”、“动”，同 do 和 act。
+
+* agent *-ent名词后缀，表示“人”*
+* agency
+
+### agri
+
+表示“田地”、“农田”,也作 agro agr
+
+* agriculture *cult 耕种，-ure名词后缀
+* agronomy 
+
+### ann
+
+表示“年”，也作 enn
+
+* annual *-nul 形容词后缀*
+* perennial *per-通、全
 
 ### pre-
 
@@ -16,7 +37,24 @@
 * divide
 * divorce
 
-## stem
+### dis-
+
+表示“不同意，反对”或者“分开、分离”
+
+* dislike
+* disagree
+* dishonest
+* disappear
+* discuss
+* discard
+
+### ex-
+
+表示“向外”
+
+* expect
+* exclusive
+* expose
 
 ### -ous
 
@@ -27,4 +65,10 @@
 * poisonous
 * advantageous
 
-## suffix
+### -pect
+
+表示“看”
+
+* prospect
+* expect
+* inspect
