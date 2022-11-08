@@ -60,6 +60,6 @@ My flowers has withstood the storm.
 
 ### contemporary
 
-adj. 当代的：同时代的 ￼同时代的人
+adj. 当代的：同时代的 n. 同时代的人
 
 It surprised me that Guo Degang is Lin Zhiying's contemporary. 
