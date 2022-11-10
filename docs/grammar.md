@@ -1,5 +1,19 @@
 ## 词根词缀
 
+### cede/ceed/cess
+
+cede/ceed v. / cess n. go
+
+* proceed v. 继续
+* process n. 流程
+* exceed v. 超越
+* excess n. 过量
+* recede v. 后退；降低
+* recession n.萧条
+* precede v. 在…之前
+* concede v. 让步
+* concession n. 让步
+
 ### ag
 
 表示“做”、“动”，同 do 和 act。
