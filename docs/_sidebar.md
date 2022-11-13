@@ -1,5 +1,4 @@
 - [3050207 英语](README.md)
-  - [学习技巧](learning.md)
   - [英语语法](grammar.md)
   - [英语单词](words.md)
   - [00596 英语阅读(二)](00596.md)
