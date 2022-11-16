@@ -22,9 +22,9 @@
 }
 
 .badge-title {
-  background-color: gray;
+  background-color: #aaa;
 }
 
 .badge-content {
-  background-color: var(--theme-color,#42b983);
+  background-color: #75a49e;
 }
