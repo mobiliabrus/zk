@@ -9,12 +9,14 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css" />
     <link rel="stylesheet" href="//lee6.com/style.css" />
     <link rel="stylesheet" href="./components/badge/index.css" />
+    <link rel="stylesheet" href="./components/tooltip/index.css" />
     <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <div id="app"></div>
     <script src="//cdn.jsdelivr.net/npm/vue-diction@0.3.7"></script>
     <script src="./components/badge/index.js"></script>
+    <script src="./components/tooltip/index.js"></script>
     <script>
       window.$docsify = {
         loadNavbar: true,
@@ -25,6 +27,7 @@
         topMargin: 50,
         vueComponents: {
           'v-badge': vueBadge,
+          'v-tooltip': vueTooltip,
           'v-dict': vueDictionExtend({
             autoLoad: true,
             showOrigin: false,
