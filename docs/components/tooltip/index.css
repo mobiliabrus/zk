@@ -8,6 +8,7 @@
 }
 
 .tooltip-inner {
+    user-select: none;
     opacity: 0;
     transition: opacity .15s ease;
     position: absolute;
