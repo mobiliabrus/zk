@@ -5,11 +5,13 @@
 
 .tooltip:hover .tooltip-inner {
     opacity: 1;
+    display: block;
 }
 
 .tooltip-inner {
     user-select: none;
     opacity: 0;
+    display: none;
     transition: opacity .15s ease;
     position: absolute;
     transform: translateY(-100%);
