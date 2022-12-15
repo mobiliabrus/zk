@@ -1,5 +1,5 @@
 - [3050207 英语](README.md)
-  - [vocabulary](vocabulary.md)
+  - [Vocabulary](vocabulary.md)
   - [00596 英语阅读(二)](00596.md)
   - [00522 英语国家概况](00522.md)
   - [06009 初级翻译技巧](06009.md)
