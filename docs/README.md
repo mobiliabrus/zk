@@ -4,6 +4,7 @@
 [社会考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1664ccd0018_tree.html)
 [杭州教育考试院](http://www.hzjyksy.cn/)
 [PETS](https://pets.neea.edu.cn/)
+[专升本](http://zk.cqksy.cn/zkPage/info_zykc_show?zydm=050201&zycc=2)
 
 主考学校：浙江师范大学
 专业代码：3050207
