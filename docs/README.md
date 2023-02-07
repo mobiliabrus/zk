@@ -6,8 +6,9 @@
 [PETS](https://pets.neea.edu.cn/)
 [专升本](http://zk.cqksy.cn/zkPage/info_zykc_show?zydm=050201&zycc=2)
 
-主考学校：浙江师范大学
-专业代码：3050207
+主考学校：浙江师范大学<br/>
+专业代码：3050207<br>
+专业已停止接纳新生，2026年1月1日起停止颁发毕业证书
 
 ---
 
