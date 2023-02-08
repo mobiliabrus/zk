@@ -1,3 +1,18 @@
+#### 英语阅读（二）
+1. a last resort 最后手段
+2. guardian n. 保护者
+3. ubiquitous a. being everywhere, esp. at the same time 普遍存在的
+4. carbohydrate n. 碳水化合物
+5. contender n. rival, competitor 竞争者，对手
+6. teetotaler n. a person who never drinks alcohol 滴酒不沾的人
+7. prophylatic a. 预防性的
+8. therapeutic a. 治疗的
+9. attendant a. connected with 伴随的，有联系的
+10. placebo n. 安慰剂
+11. retain v. avoid losing 保留
+12. excrete v. get rid of waste from the body 排泄
+13. toxic a. poisonous 有毒的
+
 #### 英语国家概况
 
 ##### 第一章 Land and People 国土与人民
