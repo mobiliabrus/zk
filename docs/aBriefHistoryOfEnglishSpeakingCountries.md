@@ -29,8 +29,7 @@
 #### Roman Britain 
 
 `55BC`-`410AD`, Britain was under the Roman occupation, `but it was never a total occupation`.
-
-Two reasons:
+There's two reasons:
 * Some parts of the country `resisted`.
 * Roman troops were often withdrawn from Britain to `fight in other parts` of the Roman Empire. 
 
