@@ -10,7 +10,25 @@
 
 我并不打算真的把它写成一本书，但如果有人能根据我的内容写成，那就是最大的成功。
 
-第一章，英国的起源。
+### Chapter 1 The Origins of Britain 
+
+#### Early settlers
+
+3000BC- `The Iberians`
+
+5000BC- `The Beaker Folk`, now known as `Holland` and the `Rhineland`
+
+500BC- `The Celts`
+
+#### Roman Britain 
+
+`55BC`-`410AD`, Britain was under the Roman occupation, `but it was never a total occupation`.
+
+Two reasons:
+* Some parts of the country `resisted`.
+* Roman troops were often withdrawn from Britain to `fight in other parts` of the Roman Empire. 
+
+
 
 第二章，探索新大陆。
 
