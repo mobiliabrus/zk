@@ -680,7 +680,7 @@
 22. the Oireachtas 国会
 23. the national Department of the Environment 国家环境部
 24. district courts 地方法院
-25. circuitcourts巡回法庭
+25. circuitcourts 巡回法庭
 26. a special criminal court 特别刑事法院
 27. singletransferablevote单一可转移投票制
 28. MaryRobinson玛丽罗宾逊(爱尔兰第一位女总统)
