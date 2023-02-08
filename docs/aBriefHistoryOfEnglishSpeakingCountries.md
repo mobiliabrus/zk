@@ -20,6 +20,12 @@
 
 500BC- `The Celts`
 
+* The Celts came to Britain in three main waves: The Gales, the Brythona and the Belgae.
+* The Celts were parcticed farmers. 
+* The Celts tribes are ancestors of the Highland Scots, the Irish and the Welsh
+* Their languages are the basis of both Welsh and Garlic.
+* Their Religion was Druidism. 
+
 #### Roman Britain 
 
 `55BC`-`410AD`, Britain was under the Roman occupation, `but it was never a total occupation`.
@@ -28,6 +34,7 @@ Two reasons:
 * Some parts of the country `resisted`.
 * Roman troops were often withdrawn from Britain to `fight in other parts` of the Roman Empire. 
 
+#### The Anglo-Saxons
 
 
 第二章，探索新大陆。
