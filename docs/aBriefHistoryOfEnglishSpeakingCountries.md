@@ -10,7 +10,7 @@
 
 我并不打算真的把它写成一本书，但如果有人能根据我的内容写成，那就是最大的成功。
 
-### Chapter 1 The Origins of Britain 
+### The Origins of Britain 
 
 #### Early settlers
 
