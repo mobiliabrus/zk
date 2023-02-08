@@ -1,74 +1,7 @@
-#### 英语阅读（二）
-1. a last resort 最后手段
-2. guardian n. 保护者
-3. ubiquitous a. being everywhere, esp. at the same time 普遍存在的
-4. carbohydrate n. 碳水化合物
-5. contender n. rival, competitor 竞争者，对手
-6. teetotaler n. a person who never drinks alcohol 滴酒不沾的人
-7. prophylatic a. 预防性的
-8. therapeutic a. 治疗的
-9. attendant a. connected with 伴随的，有联系的
-10. placebo n. 安慰剂
-11. retain v. avoid losing 保留
-12. excrete v. get rid of waste from the body 排泄
-13. toxic a. poisonous 有毒的
 
 #### 英语国家概况
 
-##### 第一章 Land and People 国土与人民
-
-1. the Severn /ˈsɛv(ə)n/ 塞文河
-2. the Forth /fɔːθ/ 苏格兰福斯河
-3. the Thames /tɛmz/英国的泰晤士河
-4. Lough Neagh /lɒk/ /neɪ/内伊湖(英国最大的淡水湖)
-5. the Mersey /ˈməːzi/ 默西河
-6. Loch Lomond /lɒk/ /ˈləʊmənd/罗蒙湖
-7. the Clyde /klaid/ 克莱德河
-8. Lake Windermere /ˈwɪndəmɪə/ 温德米尔湖
-9. Angles /ˈaŋɡ(ə)l/ 盎格鲁人
-10. Normans /ˈnôrmən/ 诺曼人
-11. Saxons /ˈsaks(ə)n/ 撒克逊人
-12. Irish /ˈaɪrɪʃ/ 爱尔兰人
-13. Jutes /dʒuːt/ 朱特人
-14. Jews /dʒuː/ 犹太人
-15. Danes /deɪn/ 丹麦人
-16. a common Indo-European origin 一个共同的印欧起源
-17. Goidelic /gɔɪˈdelɪk/ 戈伊德尔语
-18. Brythonic /bri'θɔnik/ 布立吞语
-19. the North Germanic and the West Germanic /dʒɜːˈmænɪk/ 北日耳曼和西日耳曼语
-20. Urbanization /,ɜːbənaɪ'zeɪʃən/ 城镇化
-21. Greater Glasgow /'ɡlɑ:sɡəu/ 大格拉斯哥区
-22. Merseyside /'mə:zisaid/ 默西塞德郡
-23. Sheffield /'ʃefi:ld/ 谢菲尔德(英国城市)
-24. Nottingham /'nɔtiŋəm/ 诺丁汉(英国城市)
-25. Bristol /'brɪstl/ 布里斯托尔(英国西部的港口城市)
-26. Birmingham /'bɜ:mɪŋˌhæm/ 伯明翰(英国一座城市
-27. Belfast /,bel'fɑ:st/ 贝尔法斯特(北爱尔兰首府)
-28. Leeds /li:dz/ 利兹市(英国城市名)
-29. Bradford /'brædfəd/ 布拉德福德(英格兰北部城市)
-30. Tyne and Wear /tain/ /wɪə/ 泰恩-威尔郡
-31. Migration Patterns 迁徙模式
-32. immigration of nonwhite people (“New Commonwealth”) 非白种人的迁徙(新联邦)
-
 ##### 第二章 The Origins of a Nation 英国的起源
-
-1. Early Setters in Britain 早期的不列颠居民
-2. The Iberians /aɪ'bɪəriən/ 伊比利亚人
-3. The Beaker Folk /fəʊk/ 宽口陶器人
-4. The Celts /kelt/ 凯尔特人
-5. The Anglo-Saxons /aŋɡləʊˈsaks(ə)n/ 盎格鲁-撒克逊人
-6. Teutonic tribes /tjuː'tɒnɪk/ /traɪb/ 日耳曼部落
-7. St. Augustine /ɔːˈɡʌstɪn/ 圣·奥古斯丁
-8. Canterbury /'kæntəb(ə)rɪ/ 坎特伯雷(英国一城市)
-9. the Heptarchy /'heptɑːkɪ/ 七国时代
-10. The Viking /'vaikiŋ/ and Danish Invasions 北欧海盗和丹麦入侵者
-11. Alfred /'ælfrɪd/ the Great 阿尔弗雷德大帝
-12. the Danelaw /'deinlɔ:/ 丹麦律法
-13. Bede’s /bi:d/ Ecclesiastical /ɪ,kliːzɪ'æstɪk(ə)l/ History of the English People 比德的英吉利人教会史
-14. Canute /kə'nju:t/ 卡纽特(10 世纪时的丹麦王)
-15. The Norman Conquest 诺曼征服
-16. Willian, Duke of Normandy 威廉，诺曼底公爵
-17. King Harold 哈罗德国王
 
 ##### 第三章 The Shaping of the Nation 英国的形成
 
