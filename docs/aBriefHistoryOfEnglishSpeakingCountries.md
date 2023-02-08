@@ -24,7 +24,7 @@
 * The Celts were parcticed farmers. 
 * The Celts tribes are ancestors of the Highland Scots, the Irish and the Welsh
 * Their languages are the basis of both Welsh and Garlic.
-* Their Religion was Druidism. 
+* Their **religion** was **Druidism**. 
 
 #### Roman Britain 
 
