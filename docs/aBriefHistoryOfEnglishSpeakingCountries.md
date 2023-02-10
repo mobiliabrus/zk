@@ -21,7 +21,7 @@
 500BC- `The Celts`
 
 * The Celts came to Britain in three main waves: The **Gales**, the **Brythona** and the **Belgae**.
-* The Celts were **parcticed farmers**. 
+* The Celts were **practiced farmers**. 
 * The Celts tribes are **ancestors** of the **Highland Scots**, the **Irish** and the **Welsh**.
 * Their **languages** are the **basis** of both **Welsh and Garlic**.
 * Their **religion** was **Druidism**. 
