@@ -1,8 +1,10 @@
-### -ability
+### -ability 能力; 才能; 本领; 才智;
 
-a.vail.ability:  有效性; 可用性
+<a-word fix="ability" word="a.vail.ability" title="有效性; 可用性"></a-word>
 
-cap.ability:  能力
+<a-word fix="ability" word="cap.ability" title="  能力"></a-word>
+
+st.ability:  稳定性
 
 in.st.ability:  不稳定性
 
@@ -11,8 +13,6 @@ li.ability:  责任, 义务, 负债
 prob.ability:  概率; 几率
 
 re.li.ability:  可靠性
-
-st.ability:  稳定性
 
 ### -able
 
