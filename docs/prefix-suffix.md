@@ -1,4 +1,6 @@
-### -ability 能力; 才能; 本领; 才智;
+### -ability
+
+能力; 才能; 本领; 才智;
 
 <a-word fix="ability" word="a.vail.ability" title="有效性; 可用性"></a-word>
 
