@@ -12,15 +12,15 @@
 
 <a-word fix="ability" word="li.ability" title="责任, 义务, 负债"></a-word>
 
-prob.ability:  概率; 几率
+<a-word fix="ability" word="prob.ability" title="概率; 几率"></a-word>
 
-re.li.ability:  可靠性
+<a-word fix="ability" word="re.li.ability" title="可靠性"></a-word>
 
 ### -able
 
-ad.just.able:  可调整的
+<a-word fix="able" word="ad.just.able" title="可调整的"></a-word>
 
-ad.vis.able:  a. 适当的, 明智的
+<a-word fix="able" word="ad.vis.able" title="a. 适当的, 明智的"></a-word>
 
 a.gree.able:  佳适的
 
