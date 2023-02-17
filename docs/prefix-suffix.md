@@ -24,22 +24,23 @@
 
 <a-word fix="able" word="a.gree.able" title="可接受的；愉悦的；同意的"></a-word>
 
+<a-word fix="able" word="ap.plic.able" title=""></a-word>
 
-ap.plic.able:  适用的, 适应的
+<a-word fix="able" word="ap.preci.able" title=""></a-word>
 
-ap.preci.able:  a. 可感知的, 可评估的
+<a-word fix="able" word="a.vali.able" title=""></a-word>
 
-a.vail.able:  有效的, 可得的
+<a-word fix="able" word="cap.able" title=""></a-word>
 
-cap.able:  a. 有能力的, 能的, 能干的
+<a-word fix="able" word="com.fort.able" title=""></a-word>
 
-com.fort.able:  a. 舒服的, 轻松的n. 盖被
+<a-word fix="able" word="com.par.able" title=""></a-word>
 
-com.par.able:  a. 可比较的, 比得上的
+<a-word fix="able" word="con.sider.able" title=""></a-word>
 
-con.sider.able:  a. 相当的, 可观的, 重要的
+<a-word fix="able" word="desir.able" title=""></a-word>
 
-desir.able:  a. 令人想望的, 可取的
+<a-word fix="able" word="dis.able" title=""></a-word>
 
 dis.able:  使无效, 禁止, 关闭
 
