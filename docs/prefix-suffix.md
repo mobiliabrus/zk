@@ -4,7 +4,7 @@
 
 <a-word fix="ability" word="a.vail.ability" title="有效性; 可用性"></a-word>
 
-<a-word fix="ability" word="cap.ability" title=“能力"></a-word>
+<a-word fix="ability" word="cap.ability" title="能力"></a-word>
 
 <a-word fix="ability" word="st.ability" title="稳定性"></a-word>
 
