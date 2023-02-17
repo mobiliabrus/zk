@@ -20,9 +20,10 @@
 
 <a-word fix="able" word="ad.just.able" title="可调整的"></a-word>
 
-<a-word fix="able" word="ad.vis.able" title="a. 适当的, 明智的"></a-word>
+<a-word fix="able" word="ad.vis.able" title="明智的；可取的"></a-word>
 
-a.gree.able:  佳适的
+<a-word fix="able" word="a.gree.able" title="可接受的；愉悦的；同意的"></a-word>
+
 
 ap.plic.able:  适用的, 适应的
 
