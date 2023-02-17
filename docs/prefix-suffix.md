@@ -4,11 +4,11 @@
 
 <a-word fix="ability" word="a.vail.ability" title="有效性; 可用性"></a-word>
 
-<a-word fix="ability" word="cap.ability" title="  能力"></a-word>
+<a-word fix="ability" word="cap.ability" title=“能力"></a-word>
 
-st.ability:  稳定性
+<a-word fix="ability" word="st.ability" title="稳定性"></a-word>
 
-in.st.ability:  不稳定性
+<a-word fix="ability" word="in.st.ability" title="不稳定性"></a-word>
 
 li.ability:  责任, 义务, 负债
 
