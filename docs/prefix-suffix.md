@@ -10,7 +10,7 @@
 
 <a-word fix="ability" word="in.st.ability" title="不稳定性"></a-word>
 
-li.ability:  责任, 义务, 负债
+<a-word fix="ability" word="li.ability" title="责任, 义务, 负债"></a-word>
 
 prob.ability:  概率; 几率
 
