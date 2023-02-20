@@ -20,16 +20,7 @@
 
 |日期|课程|内容|完成|
 |:----------:|:----------:|:----------:|:----------:|
-|2.18-2.19|[英语阅读(二)](00596.md)|Do We Need Extra Vitamins?|🙆|
-||[英语阅读(二)](00596.md)|Women and Tobacco|🙆|
-||[英语阅读(二)](00596.md)|Are These the Best Years of Your Life?|🙆|
-||[初级翻译技巧](06009.md)|The Quest|🙆|
-||[初级翻译技巧](06009.md)|Bill Morrow's Birthday Party|🙆|
-||[初级翻译技巧](06009.md)|孟轲悔过|🙆|
-||[初级翻译技巧](06009.md)|我为乘客服务|🙆|
-||[英语国家概况](00522.md)|Chapter 1 Land and People|🙆|
-||[英语国家概况](00522.md)|Chapter 2 The Origins of a Nation|🙆|
-||[英语国家概况](00522.md)|Chapter 3 The Shaping of the Nation（1066-1381）||
+|2.19|[英语国家概况](00522.md)|Chapter 3 The Shaping of the Nation（1066-1381）||
 |2.20|[英语国家概况](00522.md)|Charter 4 Transition to the Modern Age（1455－1688）||
 |2.20|[英语阅读(二)](00596.md)|Our Disappearing Wildlife||
 |2.21|[英语国家概况](00522.md)|Chapter 5 The Rise and Fall of the British Empire（1688－Present ）||
