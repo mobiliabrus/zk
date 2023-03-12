@@ -9,6 +9,7 @@
 专业代码：3050207
 
 <a-countdown name="考试" date="2023-4-15" type="week"></a-countdown>
+<a-countdown name="网络助学综合测验" date="2023-4-5" type="week"></a-countdown>
 
 <a-remind message="网络助学综合测验考试费缴费" start="2023-3-17" end="2023-3-30"></a-remind>
 
