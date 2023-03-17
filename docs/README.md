@@ -11,11 +11,9 @@
 <a-countdown name="考试" date="2023-4-15" type="week"></a-countdown>
 <a-countdown name="网络助学综合测验" date="2023-4-5" type="week"></a-countdown>
 
-<a-remind message="网络助学综合测验考试费缴费" start="2023-3-17" end="2023-3-30"></a-remind>
+<a-remind message="网络助学综合测验1" start="2023-4-5" end="2023-4-5"></a-remind>
 
-<a-remind message="网络助学综合测验" start="2023-4-5" end="2023-4-5"></a-remind>
-
-<a-remind message="网络助学综合测验" start="2023-4-8" end="2023-4-9"></a-remind>
+<a-remind message="网络助学综合测验2" start="2023-4-8" end="2023-4-9"></a-remind>
 
 <a-remind message="PETS报名信息登记" start="2023-5-15" end="2023-7-1"></a-remind>
 
