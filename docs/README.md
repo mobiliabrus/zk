@@ -9,11 +9,6 @@
 专业代码：3050207
 
 <a-countdown name="考试" date="2023-4-15" type="week"></a-countdown>
-<a-countdown name="网络助学综合测验" date="2023-4-5" type="week"></a-countdown>
-
-<a-remind message="网络助学综合测验1" start="2023-4-5" end="2023-4-5"></a-remind>
-
-<a-remind message="网络助学综合测验2" start="2023-4-8" end="2023-4-9"></a-remind>
 
 <a-remind message="PETS报名信息登记" start="2023-5-15" end="2023-7-1"></a-remind>
 
@@ -23,8 +18,6 @@
 
 |考次|时间|名称|
 |:----------:|:----------:|:----------:|
-||Apr 5|网络助学综合测验|
-||Apr 8|网络助学综合测验|
 |231|Apr 15|[英语阅读(二)](00596.md)|
 |231|Apr 16|[英语国家概况](00522.md)|
 |231|Apr 16|[初级翻译技巧](06009.md)|
