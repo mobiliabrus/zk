@@ -1,5 +1,6 @@
 [网络助学](https://zhejiang.zikao365.com)
 [自考考试信息网](https://zk.zjzs.net/)
+[自考查询](http://61.175.196.157/zkcxController.do?list)
 [自学考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1661f040016_tree.html)
 [社会考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1664ccd0018_tree.html)
 [杭州教育考试院](http://www.hzjyksy.cn/)
@@ -51,6 +52,7 @@
 |232|Oct 28|-|
 |232|Oct 29|[英语写作基础](00597.md)|
 |232|Oct 29|综合英语（一）|
+||Nov|免考申请登记|
 |241|Apr|英语专科毕业实习(实)|
 |241|Apr|初级口译(实)|
 |241|Apr|口语(实)|
