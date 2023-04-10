@@ -13,11 +13,11 @@
 
 <a-remind message="PETS报名信息登记" start="2023-5-15" end="2023-7-1"></a-remind>
 
+<a-remind message="免考登记" start="2023-11-1" end="2023-12-1"></a-remind>
+
 ---
 
 **冲刺计划**
-
-摸底情况：
 
 1. 英语阅读（二）：
    * 选修课，还有机会补考，43分及格
