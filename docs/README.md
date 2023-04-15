@@ -9,8 +9,6 @@
 主考学校：浙江师范大学<br/>
 专业代码：3050207
 
-<a-countdown name="考试" date="2023-4-15" type="day"></a-countdown>
-
 <a-remind message="PETS报名信息登记" start="2023-5-15" end="2023-7-1"></a-remind>
 
 <a-remind message="免考登记" start="2023-11-1" end="2023-12-1"></a-remind>
