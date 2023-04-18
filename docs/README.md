@@ -12,7 +12,13 @@
 
 <a-remind message="PETS报名信息登记" start="2023-5-15" end="2023-7-1"></a-remind>
 
+<a-remind message="自考报名" start="2023-7-1" end="2023-7-31"></a-remind>
+
 <a-remind message="免考登记" start="2023-11-1" end="2023-12-1"></a-remind>
+
+<a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind>
+
+<a-remind message="实践环节考核缴费" start="2023-2-1" end="2023-2-28"></a-remind>
 
 ---
 
@@ -20,18 +26,21 @@
 
 |考次|时间|名称|
 |:----------:|:----------:|:----------:|
-||Jun|PETS报名信息登记|
-||Sep|[PETS4](PETS4.md)|
+|-|Jun|PETS报名信息登记|
+|-|Jul|自考报名|
+|-|Sep|[PETS4](PETS4.md)|
 |232|Oct 28|-|
 |232|Oct 28|-|
 |232|Oct 29|[英语写作基础](00597.md)|
 |232|Oct 29|综合英语（一）|
-||Nov|免考申请登记|
+|-|Nov|免考申请登记|
+|-|Jan|自考报名|
+|-|Feb|实践环节考核缴费|
 |241|Apr|英语专科毕业实习(实)|
 |241|Apr|初级口译(实)|
 |241|Apr|口语(实)|
 |241|Apr|听力(实)|
-||Jun|毕业申请|
+|-|Jun|毕业申请|
 
 ---
 
