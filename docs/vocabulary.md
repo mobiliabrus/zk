@@ -112,4 +112,142 @@
 <a-word word="international"></a-word>
 <a-word word="interpersonal"></a-word>
 
-!> https://www.bilibili.com/video/BV1cz4y127Az/?p=2&spm_id_from=pageDriver&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
+### mis-
+
+错
+
+<a-word word="misuse"></a-word>
+<a-word word="misfortune"></a-word>
+<a-word word="misunderstand"></a-word>
+
+### out-
+
+超过
+
+<a-word word="outnumber"></a-word>
+<a-word word="outspend"></a-word>
+
+外
+
+<a-word word="outdoor"></a-word>
+
+### over-
+
+过度
+
+<a-word word="overpraise"></a-word>
+<a-word word="overstudy"></a-word>
+
+### post-
+
+后
+
+<a-word word="postwar"></a-word>
+<a-word word="postpone"></a-word>
+<a-word word="postgraduate"></a-word>
+
+### pre-
+
+前
+
+<a-word word="prehistory"></a-word>
+<a-word word="prehistoric"></a-word>
+<a-word word="precondition"></a-word>
+
+### pro-
+
+向前
+
+<a-word word="progress"></a-word>
+<a-word word="prolong"></a-word>
+
+### re-
+
+向后
+
+<a-word word="return"></a-word>
+<a-word word="recall"></a-word>
+<a-word word="regress"></a-word>
+
+再一次
+
+<a-word word="rebirth"></a-word>
+<a-word word="reconsider"></a-word>
+
+### sub-
+
+下
+
+<a-word word="subway"></a-word>
+<a-word word="subaverage"></a-word>
+
+下级
+
+<a-word word="subtitle"></a-word>
+<a-word word="subbranch"></a-word>
+
+### trans-
+
+转移
+
+<a-word word="transform"></a-word>
+<a-word word="transplant"></a-word>
+<a-word word="transposition"></a-word>
+
+### mono-
+
+一
+
+<a-word word="monotone"></a-word>
+<a-word word="monodrama"></a-word>
+
+### bi-
+
+二
+
+<a-word word="bicycle"></a-word>
+<a-word word="bilateral"></a-word>
+
+### di-
+
+二
+
+<a-word word="dioxide"></a-word>
+<a-word word="divorce"></a-word>
+
+### tri-
+
+三
+
+<a-word word="triangle"></a-word>
+<a-word word="trike"></a-word>
+
+### hemi-
+
+半
+
+<a-word word="hemisphere"></a-word>
+<a-word word="hemicycle"></a-word>
+
+### semi-
+
+半
+
+<a-word word="semifinal"></a-word>
+<a-word word="semiautomatic"></a-word>
+
+### poly-
+
+多
+
+<a-word word="monopoly"></a-word>
+<a-word word="polytechnic"></a-word>
+
+### multi-
+
+多
+
+<a-word word="multi"></a-word>-purpose
+<a-word word="multi"></a-word>-media
+
+!> https://www.bilibili.com/video/BV1cz4y127Az/?p=3&spm_id_from=pageDriver&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
