@@ -1,3 +1,4 @@
 - [3050207 英语](README.md)
+  - [词汇](vocabulary.md)
   - [PETS4](PETS4.md)
   - [00597 英语写作基础](00597.md)
