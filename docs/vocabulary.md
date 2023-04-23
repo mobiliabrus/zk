@@ -1,4 +1,4 @@
-## 词根词缀
+## 前缀
 
 ### ab-
 
@@ -249,5 +249,68 @@
 
 <a-word word="multi-purpose"></a-word>
 <a-word word="multi-media"></a-word>
+
+## 后缀
+
+### -able
+
+（形容词后缀）能……的，具有……性质的
+
+<a-word word="useable"></a-word>
+<a-word word="movable"></a-word>
+<a-word word="adaptable"></a-word>
+
+### -al
+
+（形容词后缀）具有……性质的，属于……的
+
+<a-word word="personal"></a-word>
+<a-word word="natural"></a-word>
+<a-word word="regional"></a-word>
+
+（名词后缀）抽象名词
+
+<a-word word="refusal"></a-word>
+<a-word word="arrival"></a-word>
+
+（名词后缀）人
+
+<a-word word="survival"></a-word>
+<a-word word="criminal"></a-word>
+
+### -ate
+
+（动词后缀）做，造成
+
+<a-word word="generate"></a-word>
+<a-word word="create"></a-word>
+
+（名词后缀）人
+
+<a-word word="graduate"></a-word>
+<a-word word="candidate"></a-word>
+<a-word word="advocate"></a-word>
+
+### -ed
+
+（形容词后缀，加在名词后）有……的
+
+<a-word word="gifted"></a-word>
+<a-word word="skilled"></a-word>
+<a-word word="warm-hearted"></a-word>
+
+（形容词后缀，加在动词后）已……的，被……的
+
+<a-word word="extended"></a-word>
+<a-word word="educated"></a-word>
+<a-word word="married"></a-word>
+
+### -en
+
+（动词后缀）使变成
+
+<a-word word="shorten"></a-word>
+<a-word word="sharpen"></a-word>
+<a-word word="strengthen"></a-word>
 
 !> https://www.bilibili.com/video/BV1cz4y127Az/?p=3&spm_id_from=pageDriver&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
