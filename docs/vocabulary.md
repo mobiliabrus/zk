@@ -247,7 +247,7 @@
 
 多
 
-<a-word word="multi"></a-word>-purpose
-<a-word word="multi"></a-word>-media
+<a-word word="multi-purpose"></a-word>
+<a-word word="multi-media"></a-word>
 
 !> https://www.bilibili.com/video/BV1cz4y127Az/?p=3&spm_id_from=pageDriver&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
