@@ -313,4 +313,44 @@
 <a-word word="sharpen"></a-word>
 <a-word word="strengthen"></a-word>
 
-!> https://www.bilibili.com/video/BV1cz4y127Az/?p=3&spm_id_from=pageDriver&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
+### -ence
+
+（名词后缀）抽象名词
+
+<a-word word="difference"></a-word>
+<a-word word="confidence"></a-word>
+<a-word word="dependence"></a-word>
+
+### -ful
+
+（形容词后缀）富有…，具有…性质的
+
+<a-word word="useful"></a-word>
+<a-word word="hopeful"></a-word>
+<a-word word="powerful"></a-word>
+
+### -fy
+
+（动词后缀）使变成…
+
+<a-word word="simplify"></a-word>
+<a-word word="beautify"></a-word>
+<a-word word="purify"></a-word>
+
+### -ic
+
+（形容词后缀）…的
+
+<a-word word="historic"></a-word>
+<a-word word="basic"></a-word>
+<a-word word="realistic"></a-word>
+
+### -ion
+
+（名词后缀）抽象名词
+
+<a-word word="action"></a-word>
+<a-word word="correction"></a-word>
+<a-word word="discussion"></a-word>
+
+!> https://www.bilibili.com/video/BV1cz4y127Az?p=4&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
