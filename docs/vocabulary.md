@@ -489,5 +489,127 @@
 <a-word word="conclude"></a-word>
 <a-word word="seclude"></a-word>
 
+### duc/duct
 
-!> https://www.bilibili.com/video/BV1cz4y127Az?p=5&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
+（=lead）引导
+
+<a-word word="introduce"></a-word>
+<a-word word="conduct"></a-word>
+<a-word word="seduce"></a-word>
+<a-word word="reduce"></a-word>
+<a-word word="produce"></a-word>
+
+### fer
+
+（=bring,carry）带，拿
+
+<a-word word="offer"></a-word>
+<a-word word="prefer"></a-word>
+<a-word word="differ"></a-word>
+<a-word word="transfer"></a-word>
+
+### ject
+
+（=throw）投掷
+
+<a-word word="subject"></a-word>
+<a-word word="object"></a-word>
+<a-word word="reject"></a-word>
+<a-word word="project"></a-word>
+<a-word word="inject"></a-word>
+
+### migr
+
+（=move）迁移
+
+<a-word word="migrate"></a-word>
+<a-word word="emigrate"></a-word>
+<a-word word="immigrate"></a-word>
+<a-word word="transmigrate"></a-word>
+
+### pend/pens
+
+（=hang）悬挂
+
+<a-word word="depend"></a-word>
+<a-word word="independent"></a-word>
+<a-word word="suspend"></a-word>
+
+（=pay）花费
+
+<a-word word="expensive"></a-word>
+<a-word word="pension"></a-word>
+<a-word word="compensate"></a-word>
+
+### pos
+
+（=put）放置
+
+<a-word word="expose"></a-word>
+<a-word word="compose"></a-word>
+<a-word word="oppose"></a-word>
+<a-word word="dispose"></a-word>
+<a-word word="propose"></a-word>
+<a-word word="position"></a-word>
+
+### rupt
+
+（=break）破
+
+<a-word word="bankrupt"></a-word>
+<a-word word="disrupt"></a-word>
+<a-word word="corrupt"></a-word>
+<a-word word="erupt"></a-word>
+
+### spect
+
+（=look）看
+
+<a-word word="prospect"></a-word>
+<a-word word="inspect"></a-word>
+<a-word word="expect"></a-word>
+<a-word word="respect"></a-word>
+<a-word word="suspect"></a-word>
+<a-word word="spectator"></a-word>
+
+### tract
+
+（=draw）拉，引
+
+<a-word word="tractor"></a-word>
+<a-word word="attract"></a-word>
+<a-word word="contract"></a-word>
+<a-word word="extract"></a-word>
+<a-word word="distract"></a-word>
+
+### vert/vers
+
+（=turn）
+
+<a-word word="reverse"></a-word>
+<a-word word="convert"></a-word>
+<a-word word="diverse"></a-word>
+<a-word word="introvert"></a-word>
+<a-word word="extrovert"></a-word>
+
+### vis/vid
+
+（=see）
+
+<a-word word="visible"></a-word>
+<a-word word="revise"></a-word>
+<a-word word="previse"></a-word>
+<a-word word="supervise"></a-word>
+<a-word word="visual"></a-word>
+<a-word word="evident"></a-word>
+<a-word word="evidence"></a-word>
+
+### viv
+
+（=live）活
+
+<a-word word="revive"></a-word>
+<a-word word="vivid"></a-word>
+<a-word word="survive"></a-word>
+
+!> https://www.bilibili.com/video/BV1cz4y127Az?p=7&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
