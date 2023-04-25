@@ -353,4 +353,99 @@
 <a-word word="correction"></a-word>
 <a-word word="discussion"></a-word>
 
-!> https://www.bilibili.com/video/BV1cz4y127Az?p=4&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
+### -ism
+
+（名词后缀）…主义，流派，特性
+
+<a-word word="individualism"></a-word>
+<a-word word="capitalism"></a-word>
+<a-word word="modernism"></a-word>
+<a-word word="humanism"></a-word>
+
+### -ist
+
+（名词后缀）人，…家
+
+<a-word word="artist"></a-word>
+<a-word word="communist"></a-word>
+<a-word word="scientist"></a-word>
+
+### -ive
+
+（形容词后缀）有…性质的/作用的
+
+<a-word word="attractive"></a-word>
+<a-word word="impressive"></a-word>
+<a-word word="creative"></a-word>
+
+### -ize
+
+（动词后缀）…化
+
+<a-word word="realize"></a-word>
+<a-word word="centralize"></a-word>
+<a-word word="industrialize"></a-word>
+
+### -less
+
+（形容词后缀）无…的
+
+<a-word word="homeless"></a-word>
+<a-word word="useless"></a-word>
+<a-word word="hopeless"></a-word>
+
+### -ment
+
+（名词后缀）作为的过程或结果
+
+<a-word word="punishment"></a-word>
+<a-word word="development"></a-word>
+
+（名词后缀）物
+
+<a-word word="attachment"></a-word>
+<a-word word="basement"></a-word>
+
+### -ness
+
+（名词后缀）抽象名词
+
+<a-word word="weakness"></a-word>
+<a-word word="kindness"></a-word>
+<a-word word="darkness"></a-word>
+
+### -ship
+
+（名词后缀）情况，关系
+
+<a-word word="hardship"></a-word>
+<a-word word="friendship"></a-word>
+
+（名词后缀）身份，资格
+
+<a-word word="kingship"></a-word>
+<a-word word="membership"></a-word>
+
+### -ward
+
+（形容词及副词后缀）向…的，朝…
+
+<a-word word="downward"></a-word>
+<a-word word="backward"></a-word>
+<a-word word="northward"></a-word>
+
+### -y
+
+（形容词后缀）多…的，有…的
+
+<a-word word="rainy"></a-word>
+<a-word word="wordy"></a-word>
+<a-word word="hairy"></a-word>
+
+（名词后缀）抽象名词
+
+<a-word word="difficulty"></a-word>
+<a-word word="discovery"></a-word>
+<a-word word="mastery"></a-word>
+
+!> https://www.bilibili.com/video/BV1cz4y127Az?p=5&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
