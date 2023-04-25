@@ -448,4 +448,46 @@
 <a-word word="discovery"></a-word>
 <a-word word="mastery"></a-word>
 
+### ced/cess
+
+（=go）行走
+
+<a-word word="precede"></a-word>
+<a-word word="unprecedentedly"></a-word>
+<a-word word="recede"></a-word>
+<a-word word="recession"></a-word>
+
+### cid/cis
+
+（=cut）切
+
+<a-word word="decide"></a-word>
+<a-word word="concise"></a-word>
+<a-word word="precise"></a-word>
+
+（=kill）杀
+
+<a-word word="suicide"></a-word>
+<a-word word="pesticide"></a-word>
+
+### claim
+
+（=cry,shout）喊叫
+
+<a-word word="exclaim"></a-word>
+<a-word word="proclaim"></a-word>
+<a-word word="declaim"></a-word>
+<a-word word="reclaim"></a-word>
+<a-word word="acclaim"></a-word>
+
+### clud
+
+（=close）关闭
+
+<a-word word="include"></a-word>
+<a-word word="exclude"></a-word>
+<a-word word="conclude"></a-word>
+<a-word word="seclude"></a-word>
+
+
 !> https://www.bilibili.com/video/BV1cz4y127Az?p=5&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
