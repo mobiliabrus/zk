@@ -611,5 +611,3 @@
 <a-word word="revive"></a-word>
 <a-word word="vivid"></a-word>
 <a-word word="survive"></a-word>
-
-!> https://www.bilibili.com/video/BV1cz4y127Az?p=7&vd_source=0c0f0bca60d9ea81e6e522c9ad46171f
