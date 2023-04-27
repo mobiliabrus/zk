@@ -1,11 +1,12 @@
 [网络助学](https://zhejiang.zikao365.com)
 [自考考试信息网](https://zk.zjzs.net/)
-[自考查询](http://61.175.196.157/zkcxController.do?list)
 [自学考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1661f040016_tree.html)
 [社会考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1664ccd0018_tree.html)
 [杭州教育考试院](http://www.hzjyksy.cn/)
 [PETS](https://pets.neea.edu.cn/)
 [浙师大](http://j.zjnu.edu.cn/907/list.htm)
+
+[自考查询](http://61.175.196.157/zkcxController.do?list)
 
 主考学校：浙江师范大学<br/>
 专业代码：3050207
