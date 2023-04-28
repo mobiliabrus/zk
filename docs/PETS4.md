@@ -28,3 +28,22 @@ Part D：英译汉，5个句子，每题3.75分；<br/>
   * Part C，7 选 5 的诀窍是「寻找承上启下的句子」
 
 ---
+
+## 作文
+
+### 求职信
+
+　　_________,<br/>
+　　I am writing you this letter to show my keen interest in the post of ___________.<br/>
+______________________________________________________________________ I would like to meet you at your earliest convenience and discuss the possibility of working with your company. Or, if you are too busy these days, you can contact me for ________ for further information. Thank you for your favorable consideration.<br/>
+　　Best wishes.
+
+### 投诉信
+
+　　_________,<br/>
+　　I am writing to inform you of my unhappy experience lately. On June 5th, I _________.<br/>
+　　Unfortunately, when I went home, I was astonished to find that _________.<br/>
+　　To resolve the problem, I ________. I made great efforts to ________, only to be told ______.<br/>
+　　Up to now, I have been thinking of this happening. I believe that it is more than necessary for ________ to _______. Only when _________ can ________.<br/>
+　　With best regards.<br/>
+　　_________<br/>
