@@ -79,7 +79,7 @@
 
 前任的
 
-<a-word word="ex"></a-word>-boyfriend
+<a-word word="ex-boyfriend"></a-word>
 
 ### fore-
 
