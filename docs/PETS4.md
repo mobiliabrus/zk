@@ -127,12 +127,12 @@ It’s beyond my power to help you. The great **powers** held an international c
 
 #### 不规则名词的复数形式
 
-* men
-* women
-* mice
-* children
-* feet
-* teeth
+* man ⇀ men
+* woman ⇀ women
+* mouse ⇀ mice
+* child ⇀ children
+* foot ⇀ feet
+* tooth ⇀ teeth
 
 #### 集体名词指整体时，为单数；指个体时，为复数
 
@@ -161,15 +161,100 @@ It’s beyond my power to help you. The great **powers** held an international c
 
 #### 现在完成时、过去完成时及过去时
 
-- 过去时：过去某时刻的动作或存在的状况，且过去已结束，对现在没影响，与现在无联系
-- 现在完成时：动作或状态发生在过去，在过去已完成，对现在有影响或与现在有联系
-- 过去完成时：强调“过去之过去”，表示过去某一时刻前完成的动作与状态（注意：一定要有另一个表示过去的时间状语作参照）
-- 完成进行时：一个动作或状态开始于过去，且一直持续到现在（强调“持续”），也许刚结束，也许还要继续进行下去
+##### 过去时
+
+过去某时刻的动作或存在的状况，且过去已结束，对现在没影响，与现在无联系
+
+##### 现在完成时
+
+动作或状态发生在过去，在过去已完成，对现在有影响或与现在有联系
+
+基本结构：have/has + been + done
+否定形式：have/has + not + been + done
+疑问形式：have/has 放句首
+
+过去发生的动作对现在有影响
+
+I have seen the film, so I know what the story says.
+
+过去发生的动作持续到现在（还有可能继续发生）
+
+The film has been on for 5 minutes.
+
+##### 过去完成时
+
+强调“过去之过去”，表示过去某一时刻前完成的动作与状态（注意：一定要有另一个表示过去的时间状语作参照）
+
+基本结构：had + done
+否定形式：had + not + done
+疑问形式：had 放句首，回答用 Yes, had / No, hadn't
+
+Had he told you to go there earlier yesterday?<br/>
+Yes, he had./No, he hadn't.
+
+##### 完成进行时
+
+一个动作或状态开始于过去，且一直持续到现在（强调“持续”），也许刚结束，也许还要继续进行下去
+
+基本结构：have/has been doing
+
+I've been working with her for 20 years.
+
+He was tired, he has been working all day.<br/>
+*累了，时因为一整天都在工作，是一个动作的持续状态。*
+
+I have watered the flowers.<br/>
+I have been watering the flowers.
 
 #### 动词的语态
 
 - 主动语态：主语是动作执行者时，谓语动词用主动语态
 - 被动语态：主语是动作承受者时，谓语动词用被动语态，助动词 be+动词过去分词
+
+Bruce writes a letter every week.<br/>
+A letter is written by Bruce every week.
+
+##### 一般现在时的被动语态
+
+is/am/are + done
+
+Out classroom is cleaned everyday.
+
+##### 一般过去时的被动语态
+
+was/were + done
+
+A new shop was built last year.
+
+##### 现在完成时的被动语态
+
+has/have + been + done
+
+This book has been translated into many languages.
+
+##### 一般将来时的被动语态
+
+will + be + done
+
+Many more trees will be planted next year.
+
+##### 含有情态动词的被动语态
+
+情态动词 + be + done
+
+Young trees must be watered often,
+
+##### 现在进行时的被动语态
+
+am/is/are + being done
+
+Uncle Wang is mending my bike now.
+
+##### 不定式的被动语态
+
+to + be + done
+
+There are twenty more trees to be planted.
 
 #### 非谓语动词
 
@@ -199,6 +284,8 @@ It’s beyond my power to help you. The great **powers** held an international c
   - 分词的逻辑主语和句子主语不一致时，要用复合结构，动词或名词主格+分词表示
 
 ### 虚拟语气
+
+虚拟语气表示与现在的事实相反，即不存阿紫的情况和实现可能性很小的假设。
 
 ### 代词
 
