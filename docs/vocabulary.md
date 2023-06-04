@@ -1,4 +1,4 @@
-## 前缀
+<form method="GET" action="https://www.etymonline.com/search" target="_blank"><input name="q"></input></form>
 
 ### ab-
 
@@ -150,9 +150,10 @@
 
 前
 
-<a-word word="prehistory"></a-word>
-<a-word word="prehistoric"></a-word>
-<a-word word="precondition"></a-word>
+<a-word word="precaution"></a-word>
+<a-word word="precede"></a-word>
+<a-word word="preceding"></a-word>
+<a-word word="precise"></a-word>
 
 ### pro-
 
