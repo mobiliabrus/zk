@@ -10,12 +10,15 @@
 主考学校：浙江师范大学<br/>
 专业代码：3050207
 
-<a-countdown name="PETS4" date="2023-09-23" type="week"></a-countdown>
+<a-countdown name="PETS4" date="2023-09-16" type="week"></a-countdown>
+
 <a-countdown name="自考" date="2023-10-28" type="week"></a-countdown>
 
-<a-remind message="PETS报名信息登记" start="2023-6-1" end="2023-7-1"></a-remind>
+<a-remind message="PETS报名信息登记" start="2023-6-1" end="2023-7-2"></a-remind>
 
-<a-remind message="自考报名" start="2023-7-3" end="2023-7-7"></a-remind>
+<a-remind message="PETS报名" start="2023-7-3" end="2023-7-7"></a-remind>
+
+<a-remind message="自考报名" start="2023-7-2" end="2023-7-7"></a-remind>
 
 <a-remind message="免考登记" start="2023-11-1" end="2023-12-1"></a-remind>
 
