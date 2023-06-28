@@ -14,7 +14,7 @@
 
 <a-countdown name="自考" date="2023-10-28" type="week"></a-countdown>
 
-<a-remind message="PETS报名信息登记" start="2023-6-1" end="2023-7-2"></a-remind>
+<a-remind message="PETS报名信息登记" start="2023-6-28" end="2023-6-29"></a-remind>
 
 <a-remind message="PETS报名" start="2023-7-3" end="2023-7-7"></a-remind>
 
@@ -31,8 +31,7 @@
 **考试计划**
 
 |考次|时间|名称|
-|:----------:|:----------:|:----------:|
-|-|Jun|PETS报名信息登记|
+|:----------:|:----------:|:---------:|
 |-|Jul|PETS报名|
 |-|Jul|自考报名|
 |-|Sep|[PETS4](PETS4.md)|
