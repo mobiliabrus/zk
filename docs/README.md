@@ -10,7 +10,7 @@
 主考学校：浙江师范大学<br/>
 专业代码：3050207
 
-<a-countdown name="PETS4" date="2023-09-16" type="week"></a-countdown>
+<a-countdown name="PETS4" date="2023-09-23" type="week"></a-countdown>
 
 <a-countdown name="自考" date="2023-10-28" type="week"></a-countdown>
 
@@ -32,7 +32,7 @@
 |:----------:|:----------:|:---------:|
 |-|Jul|PETS报名|
 |-|Jul|自考报名|
-|-|Sep|[PETS4](PETS4.md)|
+|-|Sep 23|[PETS4](PETS4.md)|
 |232-3|Oct 29|[英语写作基础](00597.md)|
 |-|Jan|自考报名|
 |-|Feb|实践环节考核缴费|
