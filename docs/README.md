@@ -14,9 +14,9 @@
 
 <a-countdown name="自考" date="2023-10-28" type="week"></a-countdown>
 
-<a-remind message="PETS报名" start="2023-7-3" end="2023-7-7"></a-remind>
+<a-remind message="PETS报名" start="2023-7-3" end="2023-7-6"></a-remind>
 
-<a-remind message="自考报名" start="2023-7-2" end="2023-7-7"></a-remind>
+<a-remind message="自考报名" start="2023-7-2" end="2023-7-5"></a-remind>
 
 <a-remind message="免考登记" start="2023-11-1" end="2023-12-1"></a-remind>
 
