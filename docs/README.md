@@ -3,25 +3,14 @@
 [自学考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1661f040016_tree.html)
 [社会考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1664ccd0018_tree.html)
 [杭州教育考试院](http://www.hzjyksy.cn/)
-[PETS](https://pets.neea.edu.cn/)
 [浙师大](http://j.zjnu.edu.cn/910/list.htm)
 [自考查询](http://61.175.196.157/zkcxController.do?list)
 
 主考学校：浙江师范大学<br/>
 专业代码：3050207
 
-<a-countdown name="PETS4" date="2023-09-23" type="week"></a-countdown>
-
 <a-countdown name="自考" date="2023-10-28" type="week"></a-countdown>
-
-<a-remind message="PETS报名" start="2023-7-3" end="2023-7-6"></a-remind>
-
-<a-remind message="自考报名" start="2023-7-2" end="2023-7-5"></a-remind>
-
-<a-remind message="免考登记" start="2023-11-1" end="2023-12-1"></a-remind>
-
 <a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind>
-
 <a-remind message="实践环节考核缴费" start="2023-2-1" end="2023-2-28"></a-remind>
 
 ---
@@ -30,8 +19,6 @@
 
 |考次|时间|名称|
 |:----------:|:----------:|:---------:|
-|-|Jul 3|自考报名|
-|-|Jul 4|PETS报名|
 |-|Sep 23|[PETS4](PETS4.md)|
 |232-3|Oct 29|[英语写作基础](00597.md)|
 |-|Jan|自考报名|
