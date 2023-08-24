@@ -8,7 +8,7 @@
 主考学校：浙江师范大学<br/>
 专业代码：3050207
 
-<a-countdown name="自考" date="2023-10-28" type="week"></a-countdown><a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind><a-remind message="实践环节考核缴费" start="2023-2-1" end="2023-2-28"></a-remind>
+<a-countdown name="自考" date="2023-10-28" type="week"></a-countdown> <a-remind message="综合测验" start="2023-10-16" end="2023-10-27"></a-remind> <a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind> <a-remind message="实践环节考核缴费" start="2023-2-1" end="2023-2-28"></a-remind>
 
 ---
 
@@ -16,6 +16,8 @@
 
 |考次|时间|名称|
 |:----------:|:----------:|:---------:|
+|-|Oct 21|综合测验|
+|-|Oct 22|综合测验|
 |232-1|Oct 28|[初级翻译技巧](06009.md)|
 |232-2|Oct 28|[综合英语(二)](00795.md)|
 |232-3|Oct 29|[英语写作基础](00597.md)|
