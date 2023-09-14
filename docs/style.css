@@ -1,6 +1,10 @@
 .markdown-section code, .markdown-section p.tip code {
-  background-color: #999;
-  color: #fff;
+  background-color: #fff1f0;
+  color: #820014;
+}
+
+.markdown-section strong {
+  color: #820014;
 }
 
 .markdown-section p + ul, .markdown-section p + ol {
