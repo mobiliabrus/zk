@@ -1,3 +1,5 @@
+## 易混淆
+
 imitate, intimate
 - imitate [ˈɪmɪteɪt] vt. 模仿，效仿; 仿造，伪造
 - intimate [ˈɪntɪmət , ˈɪntɪmeɪt]
@@ -20,3 +22,34 @@ loaf, loan
 desert, dessert
 - desert [ˈdezət] n. 沙漠，荒原; 
 - dessert [dɪˈzɜːt] n. 甜点，甜品
+
+tough, rough
+- tough [tʌf] adj. 棘手的; 坚强的; 艰难的; 强硬的; 坚固的;
+- rough [rʌf] adj. 粗糙的，不平的; 粗略的; 粗暴的;
+
+severe, several
+- severe [sɪ'vɪə(r)] adj. 严重的，严峻的；剧烈的；严厉的，严格的
+- several ['sevrəl] adj. 一些, 几个, 数个; 各自的, 分别的 pron. 几个,一些, 数人
+
+effective
+- effective [ɪ'fektɪv] adj. 有效的；生效的
+- effectively [ɪ'fektɪvli] adv. 实际上, 有效地, 事实上
+
+sympathetic
+- sympathetic [ˌsɪmpə'θetɪk] adj. 同情的, 有同情心的, 表示同情的, 赞同的
+- enthusiasm [ɪn'θjuːziæzəm] n. 热情, 热忱, 热心, 热衷的事物
+- enthusiastic [ɪnˌθjuːzi'æstɪk] adj. 热情的，热心的
+
+## 近义词
+
+提升
+- promote [prəˈməʊt] v. 促进; 促销; 晋升; 使…升级
+- promotion [prəˈməʊʃn] n. 促进，增进; 提升，升级; 
+
+依赖
+- rely [rɪˈlaɪ] v. 依靠; 信赖
+- reliance [rɪˈlaɪəns] n. 依靠，依赖; 信任，信赖，信心; 所信赖的人或物
+
+力气
+- effort [ˈefət] n. 努力; 吃力; 有组织的行动; 费力的事
+- strength [streŋθ] n. 体力; 强度; 毅力; 实力; 优点
