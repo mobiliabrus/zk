@@ -18,5 +18,5 @@ loaf, loan
 - loan [ləʊn] n. 贷款; 借款; 借出 v. 借给; 出借
 
 desert, dessert
-- desert [ˈdezət] n. 沙漠，荒原; 枯燥乏味的地方（或境况）
+- desert [ˈdezət] n. 沙漠，荒原; 
 - dessert [dɪˈzɜːt] n. 甜点，甜品
