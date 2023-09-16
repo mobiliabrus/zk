@@ -4,8 +4,7 @@ imitate, intimate
 - imitate [ˈɪmɪteɪt] vt. 模仿，效仿; 仿造，伪造
 - intimate [ˈɪntɪmət , ˈɪntɪmeɪt]
   - adj. 亲密的，亲近的; 私人的，个人的; 内部的; 直接的
-  - n. 至交; 密友
-  - v. 暗示，提示; 宣布，通知
+  - n. 至交; 知己，密友
 
 boast, boost
 - boast [bəʊst]
@@ -39,6 +38,10 @@ sympathetic
 - sympathetic [ˌsɪmpə'θetɪk] adj. 同情的, 有同情心的, 表示同情的, 赞同的
 - enthusiasm [ɪn'θjuːziæzəm] n. 热情, 热忱, 热心, 热衷的事物
 - enthusiastic [ɪnˌθjuːzi'æstɪk] adj. 热情的，热心的
+
+planet, plant
+- planet ['plænɪt] n. 行星, 地球（尤指环境）
+- plant [plɑːnt] n. 植物, 工厂, 设备, 发电厂 v. 种植, 栽种, 播种, 在(某处)栽种; 放置, 安放
 
 ## 近义词
 
