@@ -43,6 +43,10 @@ planet, plant
 - planet ['plænɪt] n. 行星, 地球（尤指环境）
 - plant [plɑːnt] n. 植物, 工厂, 设备, 发电厂 v. 种植, 栽种, 播种, 在(某处)栽种; 放置, 安放
 
+picnic, panic
+- picnic ['pɪknɪk] n. 野餐, 野餐食物 v. 野餐
+- panic ['pænɪk] n. 惊恐，恐慌；人心惶惶的局面 v. （使）惊慌，惊惶失措
+
 ## 近义词
 
 提升
@@ -56,3 +60,9 @@ planet, plant
 力气
 - effort [ˈefət] n. 努力; 吃力; 有组织的行动; 费力的事
 - strength [streŋθ] n. 体力; 强度; 毅力; 实力; 优点
+
+经常地、规律地
+- regularly ['reɡjələli] adv. 经常地, 有规律地, 定期地, 均匀地
+
+相关的
+- relevant ['reləvənt] adj. 相关的；适当的
