@@ -1,4 +1,4 @@
-## 易混淆
+### 易混淆
 
 imitate, intimate
 - imitate [ˈɪmɪteɪt] vt. 模仿，效仿; 仿造，伪造
@@ -47,7 +47,7 @@ picnic, panic
 - picnic ['pɪknɪk] n. 野餐, 野餐食物 v. 野餐
 - panic ['pænɪk] n. 惊恐，恐慌；人心惶惶的局面 v. （使）惊慌，惊惶失措
 
-## 近义词
+### 近义词
 
 提升
 - promote [prəˈməʊt] v. 促进; 促销; 晋升; 使…升级
