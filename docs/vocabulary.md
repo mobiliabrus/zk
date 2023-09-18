@@ -1,5 +1,10 @@
 ### 易混淆
 
+favour, flavour, favorite
+- favour [ˈfeɪvə(r)] n. 支持;赞同;帮助;偏袒;偏爱;恩惠;好事;特别照顾; vt. 有利于;优惠;选择;有助于;偏袒;特别照顾;较喜欢;
+- flavour [ˈfleɪvə(r)] n. 风味;(食物或饮料的)味道;特色;特点;气氛; vt. 给(食物或饮料)调味;加味于;
+- favorite [ˈfeɪvərɪt] adj. 最喜欢的;特别受喜爱的; n. 特别喜爱的人（或物）；受宠的人；得到偏爱的人;
+
 imitate, intimate
 - imitate [ˈɪmɪteɪt] vt. 模仿，效仿; 仿造，伪造
 - intimate [ˈɪntɪmət , ˈɪntɪmeɪt]
