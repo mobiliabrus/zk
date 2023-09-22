@@ -71,6 +71,41 @@ cough, rough, tough
 - rough [rʌf] adj. 粗糙的, 不平滑的, 高低不平的, 不确切的; 艰难的, 令人痛苦的 adv. 粗鲁地, 粗野地
 - tough [tʌf] adj. 坚韧的; 牢固的; 不嫩的, 老的; 强壮的; 坚强的; 严格的, 强硬的; 困难的, 艰苦的
 
+hardly, largely, mostly 
+- hardly [‘hɑːdli] adv. 几乎没有, 几乎不, 尤用于 can 或 could 之后, 刚刚; 艰难地; 严厉地
+- largely ['lɑːdʒli] adv. 多半, 在很大程度上, 主要地
+mostly ['məʊstli] adv. 通常, 主要地, 一般地
+
+efficient, effective
+- efficient [ɪ'fɪʃnt] adj. 效率高的，高效的
+- effective [ɪ'fektɪv] adj. 有效的；生效的
+
+neglect, negotiate 
+- neglect [nɪ'ɡlekt] v. 疏忽，忽视，疏于照看 n. 疏忽，忽略
+- negotiate [nɪ'ɡəʊʃieɪt] v. 谈判，磋商；商定；达成（协议）；通过，越过（险要路段）
+
+tend, trend
+- tend [tend] v. 倾向（于）；容易表现出（某种特性）；照料
+- trend [trend] n. 趋势, 动向, 趋向, 动态；风尚, 潮流
+
+conclusion, concession
+- conclusion [kən'kluːʒn] n. 结论
+- concession [kən'seʃn] n. 让步，妥协；认输；价格优惠，减价
+
+frighten, threaten
+- frighten ['fraɪtn] v. 使惊吓, 使惊恐
+- frightening ['fraɪtnɪŋ] adj. 引起恐惧的, 使惊恐的, 骇人的
+- threaten ['θretn] v. 威胁, 恐吓; 威胁到, 危害到; 构成威胁; 似将发生, 可能来临
+- threatening ['θretnɪŋ] adj. 威胁的, 恐吓的, 阴沉沉的, 乌云密布的
+
+freshly, fleshy
+- freshly ['freʃli] adv. （通常后接过去分词）刚刚
+- fleshy ['fleʃi] adj. 多肉的, 肥胖的, 肉质的
+
+substance, substitute
+- substance ['sʌbstəns] n. 物质，实质；重要性；主旨；药物
+- substitute ['sʌbstɪtjuːt] v. 用……代替，代以 n. 代替者，代替物
+
 ### 近义词
 
 提升
