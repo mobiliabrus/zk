@@ -106,6 +106,12 @@ substance, substitute
 - substance ['sʌbstəns] n. 物质，实质；重要性；主旨；药物
 - substitute ['sʌbstɪtjuːt] v. 用……代替，代以 n. 代替者，代替物
 
+reliable, relevant, relative, reflective
+- reliable /rɪ'laɪəbl/ adj. 可靠的，可信的
+- relevant /'reləvənt/ adj. 相关的；适当的
+- relative /'relətɪv/ adj. 相对的; 比较的; 
+- reflective /rɪ'flektɪv/ adj. 沉思的, 深思的, （指物体表面）反射热的, 典型的
+
 ### 近义词
 
 提升
