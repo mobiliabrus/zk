@@ -112,6 +112,10 @@ reliable, relevant, relative, reflective
 - relative /'relətɪv/ adj. 相对的; 比较的; 
 - reflective /rɪ'flektɪv/ adj. 沉思的, 深思的, （指物体表面）反射热的, 典型的
 
+persuade, pursue
+- persuade [pəˈsweɪd] v. 说服, 劝说, 使信服
+- pursue [pəˈsjuː] v. 追求; 追赶; 致力于
+
 ### 近义词
 
 提升
