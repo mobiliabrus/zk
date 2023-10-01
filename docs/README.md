@@ -10,8 +10,6 @@
 
 <a-countdown name="自考" date="2023-10-28" type="week"></a-countdown>
 
-<a-remind message="综合测验缴费" start="2023-09-29" end="2023-10-10"></a-remind>
-<a-remind message="综合测验报名" start="2023-10-01" end="2023-10-16"></a-remind>
 <a-remind message="综合测验" start="2023-10-16" end="2023-10-27"></a-remind>
 <a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind>
 <a-remind message="实践环节考核缴费" start="2023-2-1" end="2023-2-28"></a-remind>
