@@ -5,11 +5,12 @@ favour, flavour, favorite
 - flavour [ˈfleɪvə(r)] n. （食物或饮料的）味道；特点，特色 v. 给（食物或饮料）调味；加味于
 - favorite [ˈfeɪvərɪt] adj. 特别受喜爱的 n. 特别喜爱的人（或事物）, 受宠的人, 得到偏爱的人
 
-imitate, intimate
+imitate, intimate,
 - imitate [ˈɪmɪteɪt] vt. 模仿，效仿; 仿造，伪造
 - intimate [ˈɪntɪmət , ˈɪntɪmeɪt]
   - adj. 亲密的，亲近的; 私人的，个人的; 内部的; 直接的
   - n. 至交; 知己，密友
+- estimate n. 估计; 估价 v. 估计; 估价
 
 boast, boost
 - boast [bəʊst]
