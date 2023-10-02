@@ -10,7 +10,7 @@ imitate, intimate,
 - intimate [ˈɪntɪmət , ˈɪntɪmeɪt]
   - adj. 亲密的，亲近的; 私人的，个人的; 内部的; 直接的
   - n. 至交; 知己，密友
-- estimate n. 估计; 估价 v. 估计; 估价
+- estimate n. 估计, 估价 v. 估计, 估价
 
 boast, boost
 - boast [bəʊst]
