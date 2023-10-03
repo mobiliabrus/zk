@@ -28,9 +28,10 @@ desert, dessert
 - desert [ˈdezət] n. 沙漠，荒原; 
 - dessert [dɪˈzɜːt] n. 甜点，甜品
 
-tough, rough
+tough, rough, cough 
 - tough [tʌf] adj. 棘手的; 坚强的; 艰难的; 强硬的; 坚固的;
 - rough [rʌf] adj. 粗糙的，不平的; 粗略的; 粗暴的;
+- cough v. 咳嗽 n. 咳嗽，咳嗽声
 
 severe, several
 - severe [sɪ'vɪə(r)] adj. 严重的，严峻的；剧烈的；严厉的，严格的
