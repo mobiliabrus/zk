@@ -138,3 +138,9 @@ persuade, pursue
 
 相关的
 - relevant ['reləvənt] adj. 相关的；适当的
+
+否定
+- negate v. 否定，否认，取消，使无效
+- nagation n. 反面；对立面；否定；拒绝
+- deny v. 否决；否定；拒绝承认；拒绝接受；拒绝给予
+- denial n. 否认，拒绝；剥夺（权力）
