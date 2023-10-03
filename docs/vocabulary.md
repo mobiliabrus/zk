@@ -82,9 +82,10 @@ efficient, effective
 - efficient [ɪ'fɪʃnt] adj. 效率高的，高效的
 - effective [ɪ'fektɪv] adj. 有效的；生效的
 
-neglect, negotiate 
+neglect, negotiate, negate 
 - neglect [nɪ'ɡlekt] v. 疏忽，忽视，疏于照看 n. 疏忽，忽略
 - negotiate [nɪ'ɡəʊʃieɪt] v. 谈判，磋商；商定；达成（协议）；通过，越过（险要路段）
+- negate v. 否定，否认，取消，使无效
 
 tend, trend
 - tend [tend] v. 倾向（于）；容易表现出（某种特性）；照料
