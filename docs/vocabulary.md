@@ -41,7 +41,7 @@ effective
 - effective [ɪ'fektɪv] adj. 有效的；生效的
 - effectively [ɪ'fektɪvli] adv. 实际上, 有效地, 事实上
 
-sympathetic
+sympathetic, enthusiasm, enthusiastic
 - sympathetic [ˌsɪmpə'θetɪk] adj. 同情的, 有同情心的, 表示同情的, 赞同的
 - enthusiasm [ɪn'θjuːziæzəm] n. 热情, 热忱, 热心, 热衷的事物
 - enthusiastic [ɪnˌθjuːzi'æstɪk] adj. 热情的，热心的
@@ -76,7 +76,7 @@ cough, rough, tough
 hardly, largely, mostly 
 - hardly [‘hɑːdli] adv. 几乎没有, 几乎不, 尤用于 can 或 could 之后, 刚刚; 艰难地; 严厉地
 - largely ['lɑːdʒli] adv. 多半, 在很大程度上, 主要地
-mostly ['məʊstli] adv. 通常, 主要地, 一般地
+- ['məʊstli] adv. 通常, 主要地, 一般地
 
 efficient, effective
 - efficient [ɪ'fɪʃnt] adj. 效率高的，高效的
@@ -118,6 +118,18 @@ reliable, relevant, relative, reflective
 persuade, pursue
 - persuade [pəˈsweɪd] v. 说服, 劝说, 使信服
 - pursue [pəˈsjuː] v. 追求; 追赶; 致力于
+
+even, oven
+- even adv. 甚至，即使；还；其实，实际上 adj. 平滑的，平的；均匀的；平分的
+- oven n. 烤箱，烤炉
+
+price, prize 
+- price n. 价格 v. 定价
+- prize n. 奖，奖品，奖金，奖赏 adj. 应获奖的，优秀的 v. 珍视，高度重视
+
+hump, humble
+- hump n. 大隆起物，土堆，驼峰
+- humble adj. 谦虚的，虚心的 v. 谦虚，虚心
 
 ### 近义词
 
