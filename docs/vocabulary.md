@@ -7,18 +7,12 @@ favour, flavour, favorite
 
 imitate, intimate,
 - imitate [ˈɪmɪteɪt] vt. 模仿，效仿; 仿造，伪造
-- intimate [ˈɪntɪmət , ˈɪntɪmeɪt]
-  - adj. 亲密的，亲近的; 私人的，个人的; 内部的; 直接的
-  - n. 至交; 知己，密友
+- intimate [ˈɪntɪmət , ˈɪntɪmeɪt] adj. 亲密的，亲近的; 私人的，个人的; 内部的; 直接的 n. 至交; 知己，密友
 - estimate n. 估计, 估价 v. 估计, 估价
 
 boast, boost
-- boast [bəʊst]
-  - v. 吹嘘，自夸; 
-  - n. 夸耀，夸口
-- boost [buːst]
-  - v. 使增长，推动; 增强，提高
-  - n. 帮助，激励; 增长，提高; 
+- boast [bəʊst] v. 吹嘘，自夸;  n. 夸耀，夸口
+- boost [buːst] v. 使增长，推动; 增强，提高 n. 帮助，激励; 增长，提高; 
 
 loaf, loan
 - loaf [ləʊf] n. 一条（面包）
@@ -110,10 +104,10 @@ substance, substitute
 - substitute ['sʌbstɪtjuːt] v. 用……代替，代以 n. 代替者，代替物
 
 reliable, relevant, relative, reflective
-- reliable /rɪ'laɪəbl/ adj. 可靠的，可信的
-- relevant /'reləvənt/ adj. 相关的；适当的
-- relative /'relətɪv/ adj. 相对的; 比较的; 
-- reflective /rɪ'flektɪv/ adj. 沉思的, 深思的, （指物体表面）反射热的, 典型的
+- reliable [rɪ'laɪəbl] adj. 可靠的，可信的
+- relevant ['reləvənt] adj. 相关的；适当的
+- relative ['relətɪv] adj. 相对的; 比较的; 
+- reflective [rɪ'flektɪv] adj. 沉思的, 深思的, （指物体表面）反射热的, 典型的
 
 persuade, pursue
 - persuade [pəˈsweɪd] v. 说服, 劝说, 使信服
@@ -131,6 +125,22 @@ hump, humble
 - hump n. 大隆起物，土堆，驼峰
 - humble adj. 谦虚的，虚心的 v. 谦虚，虚心
 
+diner, dinner
+- diner n. （尤指餐馆的）就餐者, 小饭店
+- dinner n. 晚餐,宴会, 主餐
+
+myth, misery
+- myth n. 神话, 神话故事, 虚构的东西
+- misery n. 痛苦，悲惨的境遇，苦难
+
+admire, desire
+- admire v. 钦佩, 欣赏, 赞赏, 仰慕
+- desire n. 愿望，欲望；情欲 v. 渴望 adj. 渴望的，想要的，预期的
+
+stuff, staff
+- stuff v. 填满，塞满，吃撑 n. 材料，原料；东西，物品
+- staff n. 全体职工（或雇员）；管理人员
+
 ### 近义词
 
 提升
@@ -147,12 +157,21 @@ hump, humble
 
 经常地、规律地
 - regularly ['reɡjələli] adv. 经常地, 有规律地, 定期地, 均匀地
+- frequently adv. 频繁地，经常
 
-相关的
+合适的，适当的
 - relevant ['reləvənt] adj. 相关的；适当的
+- suitable adj. 合适的，适宜的，适当的
+- appropriate adj. 适当的; 合适的
+- proper adj. 适宜的; 正确的; 像样的; 规矩的; 严格意义上的; 完全的; 特有的
 
 否定
 - negate v. 否定，否认，取消，使无效
 - nagation n. 反面；对立面；否定；拒绝
 - deny v. 否决；否定；拒绝承认；拒绝接受；拒绝给予
 - denial n. 否认，拒绝；剥夺（权力）
+
+很、非常
+- terribly adv. 非常, 很, 非常地, 很厉害地
+- highly adv. 非常，很；高标准地；高级地；极为（赞许），评价高的
+- extremely adv. 极端地; 非常，很; 去; 绝
