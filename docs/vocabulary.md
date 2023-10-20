@@ -27,10 +27,6 @@
 - rough [rʌf] adj. 粗糙的，不平的; 粗略的; 粗暴的;
 - cough v. 咳嗽 n. 咳嗽，咳嗽声
 
-##### severe, several
-- severe [sɪ'vɪə(r)] adj. 严重的，严峻的；剧烈的；严厉的，严格的
-- several ['sevrəl] adj. 一些, 几个, 数个; 各自的, 分别的 pron. 几个,一些, 数人
-
 ##### effective
 - effective [ɪ'fektɪv] adj. 有效的；生效的
 - effectively [ɪ'fektɪvli] adv. 实际上, 有效地, 事实上
