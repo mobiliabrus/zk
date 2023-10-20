@@ -232,3 +232,37 @@ This company was very popular in the United States，but its service this year i
 there remains 是there be 句型的变形，意思是：仍然有。
 
 There **remains** a lot to be done in terms of health and safety procedures at the factory.
+
+##### except
+
+The windows were never opened **expect** to air the room for a few minutes in the morning.
+
+##### display something (to somebody)
+
+He has **displayed** remarkable courage in his efforts to reform the company.
+
+##### be held responsible for 对…负赔偿责任；为…负责
+
+In no way **was** the cyclist **held responsible for** the accident.
+
+##### used to / be used to doing / be used to do
+
+used to：“过去常常”。be used to doing：习惯于。be used to do：被用来做。
+
+The children **used to** go and play in the giant's garden after school.
+
+##### it is no good doing sth 做某事是没有好处的。
+
+It is **no good** going for a picnic as long as the rain lasts.
+
+##### come into view 看得见，进入视野
+
+Having adjusted the telescopic focus, he waited for the bright star to **come into** view again.
+
+#####  It never occurs to sb 对于某人来说从来没有发生过
+
+**It never occurs to** my son to contact me when he is in trouble.
+
+##### faculty
+
+Dr. Blake has just received an invitation from Washington University to join the **faculty** as a full-time professor.
