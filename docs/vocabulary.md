@@ -141,6 +141,11 @@
 - stuff v. 填满，塞满，吃撑 n. 材料，原料；东西，物品
 - staff n. 全体职工（或雇员）；管理人员
 
+##### effected, affected
+effected 影响并改变了某件事，affected 只产生了影响
+- effected v.	实现; 使发生; 引起; adj. 实现了的；受影响的;
+- affected v. 影响; 使感染; 侵袭; 使悲伤(或怜悯等); (感情上)深深打动; adj. 假装的; 做作的;
+
 ### 近义词
 
 ##### 提升
@@ -213,3 +218,17 @@ You can go out to play **as long as** you stay in the back yard.
 ##### cope with 处理
 
 The hostages have been confined for so long that they can't **cope with** the outside world.
+
+##### live up to reputation 不负盛名
+
+This company was very popular in the United States，but its service this year in California failed to **live up to its reputation**.
+
+##### be successful in doing sth. 成功地做某事
+
+**Were** you **successful in persuading** him to change his mind?
+
+##### there remains
+
+there remains 是there be 句型的变形，意思是：仍然有。
+
+There **remains** a lot to be done in terms of health and safety procedures at the factory.
