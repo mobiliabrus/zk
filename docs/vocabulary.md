@@ -227,4 +227,4 @@ This company was very popular in the United States，but its service this year i
 
 there remains 是there be 句型的变形，意思是：仍然有。
 
-There **remains** a lot to be done in terms of health and safety procedures at the factory.
+**There remains** a lot to be done in terms of health and safety procedures at the factory.
