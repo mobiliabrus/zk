@@ -148,6 +148,10 @@ effected 影响并改变了某件事，affected 只产生了影响
 - respectable adj. 体面的，符合体面人身份的; 值得尊敬的，可敬的
 - respected adj. 受尊重的
 
+##### forced, enforced
+- forced adj.	被迫的; 勉强的; 不得已的; v. 强迫，迫使(某人做某事);
+- enforced adj.	强迫的; 强制性的; v. 强制执行，强行实施(法律或规定); 强迫; 迫使;
+
 ### 近义词
 
 ##### 提升
@@ -204,6 +208,8 @@ I was **no match for** a man with such power.
 ##### allow for 考虑到，虑及
 
 Although the journey usually takes six weeks, you should **allow for** delays caused by bad weather.
+
+We’ll set about an hour earlier to **allow for** possible delays on the way.
 
 ##### make arrangements 做出安排
 
@@ -296,3 +302,153 @@ No one is **better** able to explain the unexplainable about the incident **than
 likely to do 可能会
 
 The professor crossed out everything that was **likely to offend** other students.
+
+##### break
+
+**break away** 脱离；离开；摆脱<br/>
+**break up** 终止；解散；(被)分解；(使)(人与人关系)发生破裂<br/>
+**break off** 暂停工作, 休息一下；中止,中断;<br/>
+**break down** 损坏,坏掉；(在健康、精神等方面)(使)垮掉<br/>
+**break promise** 违背诺言，失言
+**break out** 爆发
+**break in** 打断
+
+A fierce quarrel **broke out** between the couple over the size of the investment.
+
+##### out of the question 根本不可能
+
+The prisoner looked around and was filled with despair when he found that it was **out of the question** for him to escape.
+
+##### hang
+
+hang up 挂断电话<br/>
+**hang on** 坚持<br/>
+hang about 闲逛<br/>
+hang around 等待
+
+It is not easy to learn English well，but if you **hang on** you will succeed in the end.
+
+##### regard
+
+**regard as** 视为
+
+**regardless of** 不管
+
+The law requires equal treatment for all, **regardless of** race, religion, and sex.
+
+##### look sb. in the eye 正视，打量某人
+
+When the dustman greeted a woman warmly, she **looked him in the eye** , startled
+and confused.
+
+##### at intervals 时时，不时，相隔一段时间或距离
+
+The loud noise would stop **at** regular **intervals** and then resume after a while.
+
+##### live / alive / livable / living
+
+live v. 生活，过日子; 居住; 住; adj. 活的; 有效的;<br/>
+alive adj. 活着的; 活着; 在世; <br/>
+livable adj. 适于居（同）住的<br/>
+living adj. 活的; 在使用的; 活着的; 在实施的;
+
+He is one of the greatest **living** composers.
+
+##### not so much... as 与其说……不如说……
+
+I am here today **not so much** to argue with you about who is right **as** to apologize for my rudeness yesterday.
+
+##### let alone 更不必说，更不用说
+
+The boy is still too young and confused to know what he wants to do, **let alone** what is good for him.
+
+After the accident, there was no hope of getting on his feet again, **let alone** climbing such a high mountain.
+
+##### the reason of ……的原因
+
+**The reason of** his being late was that the flight he took had been delayed.
+
+##### But for 要不是，倘没有
+
+**But for** his help, I could not have finished the course paper ahead of the deadline.
+
+**But for** the storm, we would have arrived at the theatre earlier.
+
+##### turn to sb 求助于某人
+
+We can meet the body's need for salt from natural sources without **turning to** the salt bottle.</br>
+我们从自然资源中摄取的盐分已经可以满足身体需求，不用求助于盐罐
+
+##### wear off 逐渐消失
+
+The drug’s effects are very powerful, but they will begin to **wear off** in a few hours.
+
+##### considerable 大量的、相当的
+
+Writing is a slow process, requiring **considerable** thought, time, and effort.
+
+##### have access to 使用；接近；可以利用
+
+We must ensure that all patients **have access to** high-quality care.
+
+##### would rather do than do 宁愿做某事不愿做某事
+
+I**’d rather have** a room of my own, however small it is, **than share** a room with someone else.
+
+##### against 迎战，以…为抵抗（或抵御）对象，以…为防御措施
+
+After the robbery, the shop installed a sophisticated alarm system as an insurance **against** further losses.
+
+##### little else 其他什么都没有，其他不……
+
+Sport has the power to unite people in a way that l**ittle else** can.
+
+##### regular intervals 定期
+
+All the faculty members can participate in excursions to the lovely beaches around the island at **regular intervals**.
+
+##### have sb do sth. 让某人做某事
+
+They are going to **have** the landlady **install** a new heating system.
+
+##### get along with 与…和睦相处
+
+Somehow she never seemed to be able to **get along with** her parents-in-law.
+
+##### call off 取消,放弃
+
+The search for the missing climber had to be **call off** when it got too dark.
+
+##### ask for trouble 自找麻烦；自讨苦吃
+
+Walking through an area like that after dark is really **asking for trouble**.
+
+##### compulsory course 必修课 selective course 选修课
+
+To give students more freedom, I think we should offer more **selective courses** and fewer **compulsory** ones.
+
+##### the key to doing sth 做某事的关键
+
+In my opinion, the overwhelmingly large population is **the key to understanding** of many of our policies today.
+
+###### in the course of 在…过程中，在…期间
+
+in the course of history 在历史的长河中
+
+The name of the city changed many times **in the course of history**.
+
+###### break away from 放弃；脱离……
+
+The family found it hard to **break away from** the traditions of their own country and adapt to the new environment.
+
+###### turn into 变成；进入
+
+Drying is the oldest type of food storage. Drying fruit sometimes **turn into** a completely new product.
+
+###### at the scene of 在…的现场
+
+The police with a group of experts arrived **at the scene of** the accident in ten minutes.
+
+###### owing to 由于，因为…
+
+The flight has been delayed for four hours **owing to** the foggy weather.
