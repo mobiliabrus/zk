@@ -142,6 +142,12 @@ effected 影响并改变了某件事，affected 只产生了影响
 - effected v.	实现; 使发生; 引起; adj. 实现了的；受影响的;
 - affected v. 影响; 使感染; 侵袭; 使悲伤(或怜悯等); (感情上)深深打动; adj. 假装的; 做作的;
 
+##### respective, respectful, respectable, respected
+- respective adj. 分别的；各自的
+- respectful adj. 尊敬的
+- respectable adj. 体面的，符合体面人身份的; 值得尊敬的，可敬的
+- respected adj. 受尊重的
+
 ### 近义词
 
 ##### 提升
@@ -262,3 +268,31 @@ Having adjusted the telescopic focus, he waited for the bright star to **come in
 ##### faculty
 
 Dr. Blake has just received an invitation from Washington University to join the **faculty** as a full-time professor.
+
+##### take up / over / in
+
+take off (飞机)起飞; 脱下，脱掉(衣物); (产品、活动、事业等)腾飞，突然成功; (突然)离开，走开，走掉; 中止，（从……）取消;
+**take up** 开始从事<br/>
+**take over** 接收<br/>
+**take in** 理解
+
+I was feeling rather tired, so I didn’t really **take in** what the teacher was saying.
+
+
+##### other than / rather than
+
+**other than** 除了
+
+**rather than** 而不是
+
+We should take immediate action **rather than** wait to see what happens.
+
+**better than** 比…更好
+
+No one is **better** able to explain the unexplainable about the incident **than** Professor Lee.
+
+##### likely to do
+
+likely to do 可能会
+
+The professor crossed out everything that was **likely to offend** other students.
