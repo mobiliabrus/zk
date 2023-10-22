@@ -374,6 +374,8 @@ After the accident, there was no hope of getting on his feet again, **let alone*
 
 **But for** the storm, we would have arrived at the theatre earlier.
 
+**But for** the help and support of her peers, Sue would not have succeeded in her project.
+
 ##### turn to sb 求助于某人
 
 We can meet the body's need for salt from natural sources without **turning to** the salt bottle.</br>
@@ -452,3 +454,11 @@ The police with a group of experts arrived **at the scene of** the accident in t
 ###### owing to 由于，因为…
 
 The flight has been delayed for four hours **owing to** the foggy weather.
+
+###### given that 考虑到
+
+Usually，I am sensible with money, as I have to be, **given that** I don’t earn that much.
+
+##### fierce 激烈，热烈
+
+Due to **fierce** competitions among travel agencies, travel expenses have been considerably reduced.
