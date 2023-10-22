@@ -152,6 +152,29 @@ effected 影响并改变了某件事，affected 只产生了影响
 - forced adj.	被迫的; 勉强的; 不得已的; v. 强迫，迫使(某人做某事);
 - enforced adj.	强迫的; 强制性的; v. 强制执行，强行实施(法律或规定); 强迫; 迫使;
 
+##### bonus, salary, wage, allowance, income
+- bonus n. 奖金; 红利; 意外收获;
+- salary n.	薪金(尤指按月发放的); 薪水; 非体力劳动者所得到的工资、薪水
+- wage n.	工资; 工钱; 简单劳动或体力劳动者所得的工资、工钱
+- allowance n. 津贴; 补贴; 补助; 免税额; 限额; 定量; v.	给…发津贴；按定量供给;
+- income n.	收入; 收益; 所得;
+
+##### considerably, constantly, consequently, consistently
+- considerable adj.	相当大的; 相当多(或重要等)的; 值得注意的，著名的; 值得尊敬的;
+- considerably adv.	非常; 相当多地; 很;
+- constant n.	常数; 常量;
+- constantly adv.	不断地; 一直; 始终;
+- consequent adj.	随之而来的; 作为结果的; 随之发生的; n. 结果; 结论;
+- consequently adv.	因此; 所以;
+- consistent adj.	与…一致的; 一致的; 符合的; 持续的; 相符的; 连续的; 始终如一的; 不矛盾的; 相互连贯的;
+- consistently adv.	一贯地; 始终如一地;
+
+##### ambiguous, arbitrary, exclusive, explicit
+- ambiguous adj. 不明确的; 模棱两可的; 含混不清的;
+- arbitrary adj. 任意的; 武断的; 专横的; 专制的; 随心所欲的;
+- exclusive adj. 独家; 排斥的; (个人或集体)专用的，专有的，独有的，独占的; 不包括; 高级的; 豪华的; 排外的; 高档的; 
+- explicit adj.	明确的; 详述的; 直言的, 坦率的; 一目了然的;
+
 ### 近义词
 
 ##### 提升
@@ -284,10 +307,11 @@ take off (飞机)起飞; 脱下，脱掉(衣物); (产品、活动、事业等)�
 
 I was feeling rather tired, so I didn’t really **take in** what the teacher was saying.
 
-
 ##### other than / rather than
 
 **other than** 除了
+
+- All parts of the house **other than** the windows were in good condition.
 
 **rather than** 而不是
 
@@ -296,6 +320,10 @@ We should take immediate action **rather than** wait to see what happens.
 **better than** 比…更好
 
 No one is **better** able to explain the unexplainable about the incident **than** Professor Lee.
+
+##### none other than 就是
+
+The person she chatted with in the lounge at noon was **none other than** her ex-husband.
 
 ##### likely to do
 
@@ -462,3 +490,11 @@ Usually，I am sensible with money, as I have to be, **given that** I don’t ea
 ##### fierce 激烈，热烈
 
 Due to **fierce** competitions among travel agencies, travel expenses have been considerably reduced.
+
+##### so as not to 免得; 口语; 为了不; 以便不;
+
+Mr. Smith advised us to stay away **so as not to** get involved in the dispute.
+
+##### secure a job 获得工作
+
+This book gives some tips on how to **secure a job** without a college degree.
