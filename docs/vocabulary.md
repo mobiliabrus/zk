@@ -193,6 +193,15 @@ He was usually very kind, so his sudden **harshness** greatly surprised us.
 - set up 建立; 设置; 设立;
 - set about 着手; 开始; 动手; 下手;
 - set out （清晰而有条理地）陈述，阐述，说明; 
+- put aside 储存…备用
+
+##### bring about / out / down / up
+- bring about 引起，带来
+- bring out 生产
+- bring down 降低
+- bring up 提出；教育
+
+Automation has made it possible to **bring about** great changes in industry.
 
 ### 近义词
 
@@ -300,6 +309,8 @@ In no way **was** the cyclist **held responsible for** the accident.
 used to：“过去常常”。be used to doing：习惯于。be used to do：被用来做。
 
 The children **used to** go and play in the giant's garden after school.
+
+They **used to be** good friends, but now they don’t even greet each other when they meet.
 
 ##### it is no good doing sth 做某事是没有好处的。
 
@@ -432,6 +443,8 @@ We can meet the body's need for salt from natural sources without **turning to**
 
 The drug’s effects are very powerful, but they will begin to **wear off** in a few hours.
 
+The effects of the medicine **wear off** and the pain returned.
+
 ##### considerable 大量的、相当的
 
 Writing is a slow process, requiring **considerable** thought, time, and effort.
@@ -557,3 +570,53 @@ The girl **represented** no interest in learning how to play the piano despite h
 ##### take … into account 把…考虑进去
 
 Companies usually **take** your previous experience **into account** when they fix your salary.
+
+##### another two years 另外两年
+
+The subway is still under construction. It will take **another two years** to complete.
+
+##### sb. did accordingly 他照做了
+
+Peter’s mum told him to stay in the room waiting for her and **he did accordingly**.
+
+The parents told their kids to stay in their own room and **they did accordingly**.
+
+##### conform 遵照，遵守
+
+As a member of the club, you must **conform** to its rules.
+
+##### intensive 深度的
+
+**Intensive** care in hospital is given to the seriously ill.
+
+##### be ignorant of 不知道，不了解
+
+Because he no longer reads the journals, he is **be ignorant of** the latest developments in the field.
+
+##### many a time 许多次，常常
+
+He had been there **many a time**, and knew everyone well.
+
+##### indulgence in sth. 放纵/沉迷于……
+
+His **indulgence in** playing computer games has led to his failure in his exams.
+
+##### be turned down 遭到拒绝
+
+His application for a position in that company **was turned down**.
+
+##### In addition 除……之外（还……）
+
+What a terrible day! I was late for class this morning. **In addition**, I forgot to bring my homework.
+
+##### be likely to do 可能作某事；很可能
+
+Studies show that people **are** more **likely to** suffer from back problems if they always sit before computer screens for long hours.
+
+##### would rather not 宁可不
+
+Mr. Johnson **would rather not** invest that money in the stock market.
+
+##### entitle sb to sth 使某人拥有…的权利/资格
+
+Her talent and experience **entitled her to** the respect of her colleagues.
