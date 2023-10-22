@@ -175,6 +175,25 @@ effected 影响并改变了某件事，affected 只产生了影响
 - exclusive adj. 独家; 排斥的; (个人或集体)专用的，专有的，独有的，独占的; 不包括; 高级的; 豪华的; 排外的; 高档的; 
 - explicit adj.	明确的; 详述的; 直言的, 坦率的; 一目了然的;
 
+##### reward, award
+- reward v.	奖励; 奖赏; 给以报酬; 指对某人的所作所为给予一定的报酬作为奖励
+- award v.	授予; 奖励; 判给; 指通过裁判裁决或法官判决而授予、颁发、奖给或判给需要者或应得者
+
+The government **awarded** the police officer a medal of honor for his heroic deed in rescuing the earthquake victims.
+
+##### heartiness, harshness, uprightness
+- heartiness 热心
+- harshness n. 严肃；刺耳；粗糙的事物;
+- uprightness n. 诚实; 公正; 正直的行为(或态度);
+
+He was usually very kind, so his sudden **harshness** greatly surprised us.
+
+##### set aside / up / about / out
+- set aside 留出;
+- set up 建立; 设置; 设立;
+- set about 着手; 开始; 动手; 下手;
+- set out （清晰而有条理地）陈述，阐述，说明; 
+
 ### 近义词
 
 ##### 提升
@@ -498,3 +517,43 @@ Mr. Smith advised us to stay away **so as not to** get involved in the dispute.
 ##### secure a job 获得工作
 
 This book gives some tips on how to **secure a job** without a college degree.
+
+##### courteous 有礼貌的
+
+Hotel receptionists must be **courteous** at all times, even when they are very tired.
+
+##### put up with 忍受
+
+She is such an irritating woman. I don’t know how you can **put up with** her.
+
+##### couldn’t help doing 禁不住做某事
+
+When Jane fell off the slide, the other children **couldn’t help laughing**.
+
+##### it follows that / It does not follow that
+
+it follows that ...由此可见 ...
+
+it does not follow that ......并非如此（并非是这样的）
+
+**it does not follow that** he will not succeed tomorrow simply because he has failed many times.
+
+##### a drastic change 一个巨大的改变
+
+**A drastic change** in policy is needed if relations between the two countries are ever to improve.
+
+##### scope (=opportunity; outlet) 施展机会, 发展余地
+
+John quitted, for the job did not provide him with enough **scope** for his organizing ability.
+
+##### to one’s relief 令……感到放心的是
+
+**To our** great **relief**, Daniel’s illness did not turn out as serious as we had feared.
+
+##### represent 表现
+
+The girl **represented** no interest in learning how to play the piano despite her mother’s insistence.
+
+##### take … into account 把…考虑进去
+
+Companies usually **take** your previous experience **into account** when they fix your salary.
