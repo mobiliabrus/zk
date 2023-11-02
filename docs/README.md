@@ -1,4 +1,3 @@
-[网络助学](https://zhejiang.zikao365.com)
 [自考考试信息网](https://zk.zjzs.net/)
 [自学考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1661f040016_tree.html)
 [杭州教育考试院](http://www.hzjyksy.cn/)
