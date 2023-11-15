@@ -3,6 +3,7 @@
 [杭州教育考试院](http://www.hzjyksy.cn/)
 [浙师大](http://j.zjnu.edu.cn/910/list.htm)
 [自考查询](http://61.175.196.157/zkcxController.do?list)
+[🎰](https://zk.zjzs.net/MyApply/ajax_courseList.aspx?specialtyCode=550116Y)
 
 <a-countdown name="自考" date="2024-04-14" type="week"></a-countdown>
 <a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind>
