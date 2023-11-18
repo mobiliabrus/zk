@@ -2,7 +2,6 @@
 [自学考试](https://www.zjzs.net/moban/index/2c9081f061d15b160161d1661f040016_tree.html)
 [杭州教育考试院](http://www.hzjyksy.cn/)
 [浙师大](http://j.zjnu.edu.cn/910/list.htm)
-[自考查询](http://61.175.196.157/zkcxController.do?list)
 
 <a-countdown name="自考" date="2024-04-14" type="week"></a-countdown>
 <a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind>
