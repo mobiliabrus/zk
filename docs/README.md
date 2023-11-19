@@ -3,7 +3,7 @@
 [杭州教育考试院](http://www.hzjyksy.cn/)
 [浙师大](http://j.zjnu.edu.cn/910/list.htm)
 
-<a-countdown name="自考" date="2024-04-14" type="week"></a-countdown>
+<a-countdown name="实践考试" date="2024-04-20" type="week"></a-countdown>
 <a-remind message="自考报名" start="2023-1-1" end="2023-1-31"></a-remind>
 <a-remind message="实践环节考核缴费" start="2023-2-1" end="2023-2-28"></a-remind>
 
