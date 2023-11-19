@@ -15,23 +15,6 @@
   user-select: none;
 }
 
-.exercise .markdown-section code, .exercise .markdown-section p.tip code {
-  color: transparent;
-}
-
-.exercise .markdown-section code:hover, .exercise .markdown-section p.tip code:hover {
-  color: #fff;
-}
-
-.exercise .vue-diction-slot {
-  display: none;
-  user-select: none;
-}
-
-.exercise .vue-diction-symbol {
-  user-select: none;
-}
-
 .app-nav {
   position: fixed;
 }
