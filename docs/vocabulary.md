@@ -34,3 +34,7 @@
 <v-dict word="portion"></v-dict>
 <v-dict word="proportion"></v-dict>
 
+## pride, proud
+
+<v-dict word="pride"></v-dict>
+<v-dict word="proud"></v-dict>
