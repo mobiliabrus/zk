@@ -3,8 +3,8 @@
 
 <a-countdown name="实践考试" date="2024-04-21" type="week"></a-countdown>
 
-<a-remind message="浙师大报到：浙江师范大学外国语学院（22幢）一楼大厅（学校东南门近）" start="2023-4-15" end="2023-4-19"></a-remind>
-<a-remind message="EMS 邮寄实习报告" start="2023-8-15" end="2023-9-6"></a-remind>
+<a-remind message="浙师大报到：浙江师范大学外国语学院（22幢）一楼大厅（学校东南门近）" start="2023-4-1" end="2023-4-19"></a-remind>
+<a-remind message="EMS 邮寄实习报告" start="2023-8-1" end="2023-9-6"></a-remind>
 
 考试计划
 
@@ -42,10 +42,11 @@
 
 ---
 
-[自考考试信息网](https://zk.sceea.cn/)
+[自考考试信息系统](https://zk.sceea.cn/)
+[自考课表查询](https://chaxun.sceeic.cn/)
 
 主考学校：电子科技大学<br/>
-专业代码：080901
+专业代码：H080901
 
 | 类型 | 代码  |            名称            | 学分 |
 | :--: | :---: | :------------------------: | :--: |
